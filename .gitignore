@@ -1,2 +1,4 @@
 venv
 I-CAB_All
+*.pyc
+lib/*.pyx
