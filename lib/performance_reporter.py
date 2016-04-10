@@ -40,3 +40,9 @@ class PerformanceReporter(object):
       for key in props:
         print key + ' ' + str(self.report[idx][key])
 
+  def abbreviated_report(self):
+    self.analyze()
+    for idx in PerformanceReporter.ints_to_types:
+      print PerformanceReporter.ints_to_types[idx] + ':'
+      print self.report[idx]['f1']
+

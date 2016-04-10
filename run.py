@@ -6,7 +6,7 @@ testing_file_path = '../I-CAB_All/NER-09/I-CAB-evalita09-NER-test.iob2'
 
 training_model = Word2VecKNN(training_file_path).train()
 
-X, Y = Word2VecKNN(training_file_path).produce_word2vec_representation()
+X, Y = Word2VecKNN(testing_file_path).produce_word2vec_representation()
 
 predictions = training_model.predict(X)
 
