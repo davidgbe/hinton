@@ -1,5 +1,50 @@
-from lib.simple_parser import SimpleParser
+from itertools import chain
 
-train_sets = SimpleParser('../I-CAB_All/NER-09/I-CAB-evalita09-NER-training.iob2').parse()
-test_sets = SimpleParser('../I-CAB_All/NER-09/I-CAB-evalita09-NER-test.iob2').parse()
-print train_sets[1]
+import pycrfsuite
+from lib.simple_parser import SimpleParser
+from sklearn.metrics import classification_report
+from sklearn.preprocessing import LabelBinarizer
+
+
+class CRF:
+    def __init__(self, train, test):
+        train_sets = SimpleParser(train).parse()
+        test_sets = SimpleParser(test).parse()
+        self.X_train, self.y_train = [s.features() for s in train_sets], [s.entity_tags() for s in train_sets]
+        self.X_test, self.y_test = [s.features() for s in test_sets], [s.entity_tags() for s in test_sets]
+
+    def train(self):
+        trainer = pycrfsuite.Trainer(verbose=False)
+        for xseq, yseq in zip(self.X_train, self.y_train):
+            trainer.append(xseq, yseq)
+
+        trainer.set_params({
+            'c1': 1.0,  # coefficient for L1 penalty
+            'c2': 1e-3,  # coefficient for L2 penalty
+            'max_iterations': 50,  # stop earlier
+            # include transitions that are possible, but not observed
+            'feature.possible_transitions': True
+        })
+
+        trainer.train('result.out')
+
+    def predict(self):
+        tagger = pycrfsuite.Tagger()
+        tagger.open('result.out')
+        self.y_pred = [tagger.tag(xseq) for xseq in self.X_test]
+        return self.y_pred
+
+    def performance_report(self):
+        lb = LabelBinarizer()
+        y_true_combined = lb.fit_transform(list(chain.from_iterable(self.y_test)))
+        y_pred_combined = lb.transform(list(chain.from_iterable(self.y_pred)))
+
+        tagset = sorted(set(lb.classes_) - {'O'})
+        class_indices = {cls: idx for idx, cls in enumerate(lb.classes_)}
+
+        return classification_report(
+                y_true_combined,
+                y_pred_combined,
+                labels=[class_indices[cls] for cls in tagset],
+                target_names=tagset,
+        )
