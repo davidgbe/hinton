@@ -12,5 +12,9 @@
   * To do this: `pip install -r ./requirements.txt`
 1. Run the code!
 ```
-python ./run.py
+python ./run.py word2vec
+````
+or 
+````
+python ./run.py crf
 ```
