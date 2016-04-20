@@ -2,7 +2,6 @@
 
 ## Getting started 
 1. Clone this repo
-1. Download the I-CAB data and place it in this repo
 1. Install virtualenv using pip
   * You can do this with `pip install virtualenv`
 1. Activate virtual env
