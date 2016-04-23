@@ -3,7 +3,18 @@ class Sentence:
         self.data = []
 
     def add(self, word, pos_tag, tag):
-        self.data.append((word, pos_tag, tag))
+        tag = tag[-3:]
+        if not self.data:
+            self.data.append((word, pos_tag, tag))
+        else:
+            last_added = self.data[-1]
+            if last_added[2] == tag and tag != 'O':
+                self.data[-1] = (last_added[0] + ' ' + word, last_added[1] + ' ' + pos_tag, tag)
+            else:
+                self.data.append((word, pos_tag, tag))
+
+    def entities(self, type):
+        return filter(lambda x: x[2] == type, self.data)
 
     def words(self):
         return map(lambda x: x[0], self.data)

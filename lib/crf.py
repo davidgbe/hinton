@@ -13,24 +13,19 @@ class CRF:
         self.X_train, self.y_train = [s.features() for s in train_sets], [s.entity_tags() for s in train_sets]
         self.X_test, self.y_test = [s.features() for s in test_sets], [s.entity_tags() for s in test_sets]
 
-    def train(self):
+    def train(self, params):
         trainer = pycrfsuite.Trainer(verbose=False)
         for xseq, yseq in zip(self.X_train, self.y_train):
             trainer.append(xseq, yseq)
 
-        trainer.set_params({
-            'c1': 1.0,  # coefficient for L1 penalty
-            'c2': 1e-3,  # coefficient for L2 penalty
-            'max_iterations': 50,  # stop earlier
-            # include transitions that are possible, but not observed
-            'feature.possible_transitions': True
-        })
+        trainer.set_params(params)
 
         trainer.train('result.out')
 
     def predict(self):
         tagger = pycrfsuite.Tagger()
         tagger.open('result.out')
+        self.info = tagger.info
         self.y_pred = [tagger.tag(xseq) for xseq in self.X_test]
         return self.y_pred
 
