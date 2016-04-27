@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414198.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414198">
+    <timex2 ID="adige20041008_id414198-T32" VAL="TEV" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T32-1">
+        <extent>
+          <charseq START="10879" END="10888">una serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T33" VAL="TEV" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T33-1">
+        <extent>
+          <charseq START="11010" END="11019">una serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T34" VAL="P50Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414198-T34-1">
+        <extent>
+          <charseq START="11040" END="11052">cinquant'anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T35" VAL="TEV" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T35-1">
+        <extent>
+          <charseq START="11120" END="11129">una serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T44" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T44-1">
+        <extent>
+          <charseq START="252" END="255">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T36" VAL="1970-06-06">
+      <timex2_mention ID="adige20041008_id414198-T36-1">
+        <extent>
+          <charseq START="3793" END="3805">6 giugno 1970</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T45" VAL="XXXX" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T45-1">
+        <extent>
+          <charseq START="701" END="711">quegli anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T37" VAL="197">
+      <timex2_mention ID="adige20041008_id414198-T37-1">
+        <extent>
+          <charseq START="202" END="220">Negli anni Settanta</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T46" VAL="PAST_REF" ANCHOR_VAL="XXXX-XX-XX" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T46-1">
+        <extent>
+          <charseq START="3684" END="3688">tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T38" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T38-1">
+        <extent>
+          <charseq START="75" END="77">Ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T1" VAL="1970-SP" MOD="END">
+      <timex2_mention ID="adige20041008_id414198-T1-1">
+        <extent>
+          <charseq START="665" END="693">nella tarda primavera del '70</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T2-1">
+        <extent>
+          <charseq START="797" END="800">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T47">
+      <timex2_mention ID="adige20041008_id414198-T47-1">
+        <extent>
+          <charseq START="5294" END="5302">dai tempi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T3" VAL="TMO" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T3-1">
+        <extent>
+          <charseq START="859" END="868">la mattina</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T4" VAL="T05:00" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T4-1">
+        <extent>
+          <charseq START="870" END="875">alle 5</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T5" VAL="PT48H" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T5-1">
+        <extent>
+          <charseq START="940" END="941">48</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T16" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T16-1">
+        <extent>
+          <charseq START="4355" END="4360">allora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T17" VAL="1975">
+      <timex2_mention ID="adige20041008_id414198-T17-1">
+        <extent>
+          <charseq START="4843" END="4850">nel 1975</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T18" VAL="XXXX">
+      <timex2_mention ID="adige20041008_id414198-T18-1">
+        <extent>
+          <charseq START="4991" END="5001">quegli anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T19" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T19-1">
+        <extent>
+          <charseq START="6347" END="6350">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T20" VAL="P20Y" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T20-1">
+        <extent>
+          <charseq START="6462" END="6474">dei vent'anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T21" VAL="PAST_REF" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T21-1">
+        <extent>
+          <charseq START="7035" END="7044">negli anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T22" VAL="XXXX-XX-XX" SET="YES" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T22-1">
+        <extent>
+          <charseq START="7494" END="7504">ogni giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T23" VAL="1992">
+      <timex2_mention ID="adige20041008_id414198-T23-1">
+        <extent>
+          <charseq START="8442" END="8449">nel 1992</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T24" VAL="1992">
+      <timex2_mention ID="adige20041008_id414198-T24-1">
+        <extent>
+          <charseq START="8452" END="8473">l'anno di Tangentopoli</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T25" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041008_id414198-T25-1">
+        <extent>
+          <charseq START="8627" END="8634">all'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T39" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T39-1">
+        <extent>
+          <charseq START="430" END="435">allora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T40" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T40-1">
+        <extent>
+          <charseq START="533" END="538">allora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T41" VAL="PXM">
+      <timex2_mention ID="adige20041008_id414198-T41-1">
+        <extent>
+          <charseq START="1147" END="1156">pochi mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T42" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T42-1">
+        <extent>
+          <charseq START="1908" END="1913">allora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T49" VAL="PXM">
+      <timex2_mention ID="adige20041008_id414198-T49-1">
+        <extent>
+          <charseq START="63" END="72">pochi mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T43" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T43-1">
+        <extent>
+          <charseq START="3110" END="3113">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T51" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041008_id414198-T51-1">
+        <extent>
+          <charseq START="8561" END="8568">all'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T50" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041008_id414198-T50-1">
+        <extent>
+          <charseq START="109" END="114">l'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T6" VAL="PT72H" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T6-1">
+        <extent>
+          <charseq START="945" END="955">72 ore dopo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T7" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T7-1">
+        <extent>
+          <charseq START="1546" END="1549">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T8" VAL="P37Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414198-T8-1">
+        <extent>
+          <charseq START="1779" END="1794">Trentasette anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T9" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T9-1">
+        <extent>
+          <charseq START="2005" END="2018">al mio passato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T10" VAL="P30Y" MOD="APPROX" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414198-T10-1">
+        <extent>
+          <charseq START="2484" END="2499">quasi trent'anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T26" VAL="P1Y" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T26-1">
+        <extent>
+          <charseq START="8667" END="8674">l'annata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T11" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T11-1">
+        <extent>
+          <charseq START="2869" END="2872">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T27" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T27-1">
+        <extent>
+          <charseq START="8921" END="8923">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T12" VAL="1974">
+      <timex2_mention ID="adige20041008_id414198-T12-1">
+        <extent>
+          <charseq START="3095" END="3107">trent'anni fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T28" VAL="XXXX-XX-XX" SET="YES" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414198-T28-1">
+        <extent>
+          <charseq START="9370" END="9378">al giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T13" VAL="PXY" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414198-T13-1">
+        <extent>
+          <charseq START="3529" END="3539">quegli anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T29" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T29-1">
+        <extent>
+          <charseq START="9597" END="9600">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T14" VAL="1971-05-06">
+      <timex2_mention ID="adige20041008_id414198-T14-1">
+        <extent>
+          <charseq START="3888" END="3900">6 maggio 1971</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T30" VAL="PT2H" MOD="EQUAL_OR_LESS">
+      <timex2_mention ID="adige20041008_id414198-T30-1">
+        <extent>
+          <charseq START="10500" END="10517">al massimo due ore</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T15" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414198-T15-1">
+        <extent>
+          <charseq START="4275" END="4280">adesso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414198-T31" VAL="PT2H45M">
+      <timex2_mention ID="adige20041008_id414198-T31-1">
+        <extent>
+          <charseq START="10541" END="10560">due ore e tre quarti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

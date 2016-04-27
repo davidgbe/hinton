@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413904.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413904">
+    <timex2 ID="adige20041007_id413904-T10" VAL="20">
+      <timex2_mention ID="adige20041007_id413904-T10-1">
+        <extent>
+          <charseq START="1118" END="1127">del secolo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T3" VAL="2004-10-09">
+      <timex2_mention ID="adige20041007_id413904-T3-1">
+        <extent>
+          <charseq START="131" END="136">Sabato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T4" VAL="PT1H12M45S">
+      <timex2_mention ID="adige20041007_id413904-T4-1">
+        <extent>
+          <charseq START="678" END="684">1h12'45</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T5" VAL="2002">
+      <timex2_mention ID="adige20041007_id413904-T5-1">
+        <extent>
+          <charseq START="706" END="709">2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T6" VAL="2004-10-09T15:00">
+      <timex2_mention ID="adige20041007_id413904-T6-1">
+        <extent>
+          <charseq START="800" END="806">alle 15</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T7" VAL="2004-10-09T18:45">
+      <timex2_mention ID="adige20041007_id413904-T7-1">
+        <extent>
+          <charseq START="927" END="936">alle 18.45</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T8" VAL="P38Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413904-T8-1">
+        <extent>
+          <charseq START="1033" END="1041">il 38enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T1" VAL="2004-10-09">
+      <timex2_mention ID="adige20041007_id413904-T1-1">
+        <extent>
+          <charseq START="4" END="9">Sabato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T9" VAL="2001">
+      <timex2_mention ID="adige20041007_id413904-T9-1">
+        <extent>
+          <charseq START="1070" END="1077">Nel 2001</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413904-T2" VAL="2004-10-09T18:45">
+      <timex2_mention ID="adige20041007_id413904-T2-1">
+        <extent>
+          <charseq START="21" END="31">dalle 18.45</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

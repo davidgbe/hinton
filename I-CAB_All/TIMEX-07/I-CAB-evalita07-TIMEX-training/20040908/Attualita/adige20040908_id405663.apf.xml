@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405663.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405663">
+    <timex2 ID="adige20040908_id405663-T3" VAL="XXXX-XX-XX">
+      <timex2_mention ID="adige20040908_id405663-T3-1">
+        <extent>
+          <charseq START="1666" END="1671">giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405663-T2" VAL="2004-09-06" COMMENT="'Oggi' e' in un discorso diretto riportato proveniente da un intervista fatta il giorno prima l'uscita del giornale. 'Oggi' quindi corrisponde allo 'ieri' rispetto alla data dell'articolo. E' il giorno del rapimento.">
+      <timex2_mention ID="adige20040908_id405663-T2-1">
+        <extent>
+          <charseq START="1383" END="1386">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405663-T1" VAL="XXXX-09-11" COMMENT="Vedi pag. 54 delle Guidelines ACE 2005.">
+      <timex2_mention ID="adige20040908_id405663-T1-1">
+        <extent>
+          <charseq START="2290" END="2303">l'11 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

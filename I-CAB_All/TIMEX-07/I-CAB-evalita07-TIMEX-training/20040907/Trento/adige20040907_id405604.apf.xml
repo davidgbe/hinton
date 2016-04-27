@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405604.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405604">
+    <timex2 ID="adige20040907_id405604-T3" VAL="P10Y">
+      <timex2_mention ID="adige20040907_id405604-T3-1">
+        <extent>
+          <charseq START="1406" END="1415">dieci anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405604-T4" VAL="2002">
+      <timex2_mention ID="adige20040907_id405604-T4-1">
+        <extent>
+          <charseq START="1455" END="1462">nel 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405604-T5" VAL="P6Y" ANCHOR_VAL="2002" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405604-T5-1">
+        <extent>
+          <charseq START="1496" END="1503">sei anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405604-T1" VAL="199" MOD="START">
+      <timex2_mention ID="adige20040907_id405604-T1-1">
+        <extent>
+          <charseq START="474" END="495">dai primi anni novanta</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405604-T6" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405604-T6-1">
+        <extent>
+          <charseq START="1074" END="1079">adesso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405604-T2" VAL="2002">
+      <timex2_mention ID="adige20040907_id405604-T2-1">
+        <extent>
+          <charseq START="562" END="569">nel 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414168.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414168">
+    <timex2 ID="adige20041008_id414168-T1" VAL="P3D" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="STARTING" COMMENT="Dal contesto sappiamo che la manifestazione della durata di tre giorni iniziera' la sera dell'8 ottobre.">
+      <timex2_mention ID="adige20041008_id414168-T1-1">
+        <extent>
+          <charseq START="100" END="109">tre giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T2" VAL="2004-10-08TEV">
+      <timex2_mention ID="adige20041008_id414168-T2-1">
+        <extent>
+          <charseq START="149" END="159">questa sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T3" VAL="2003-03">
+      <timex2_mention ID="adige20041008_id414168-T3-1">
+        <extent>
+          <charseq START="341" END="367">nel marzo dello scorso anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T4" VAL="P1W">
+      <timex2_mention ID="adige20041008_id414168-T4-1">
+        <extent>
+          <charseq START="426" END="445">una settimana esatta</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T5" VAL="P3D" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="STARTING">
+      <timex2_mention ID="adige20041008_id414168-T5-1">
+        <extent>
+          <charseq START="552" END="573">tre giorni consecutivi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T6" VAL="2004-10-08">
+      <timex2_mention ID="adige20041008_id414168-T6-1">
+        <extent>
+          <charseq START="591" END="607">venerdì 8 ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T7" VAL="2004-10-08T17:30">
+      <timex2_mention ID="adige20041008_id414168-T7-1">
+        <extent>
+          <charseq START="610" END="619">alle 17.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T8" VAL="2004-10-09TEV">
+      <timex2_mention ID="adige20041008_id414168-T8-1">
+        <extent>
+          <charseq START="765" END="775">Domani sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T9" VAL="2004-10-09T20:30">
+      <timex2_mention ID="adige20041008_id414168-T9-1">
+        <extent>
+          <charseq START="777" END="786">alle 20.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T10" VAL="2004-10-10">
+      <timex2_mention ID="adige20041008_id414168-T10-1">
+        <extent>
+          <charseq START="891" END="900">dopodomani</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T11" VAL="2004-10-10T17:00">
+      <timex2_mention ID="adige20041008_id414168-T11-1">
+        <extent>
+          <charseq START="967" END="977">alle ore 17</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T12" VAL="2004">
+      <timex2_mention ID="adige20041008_id414168-T12-1">
+        <extent>
+          <charseq START="1114" END="1123">quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T13" VAL="P24Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414168-T13-1">
+        <extent>
+          <charseq START="1462" END="1468">24 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T14" VAL="P10D" ANCHOR_VAL="2004-10-17" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414168-T14-1">
+        <extent>
+          <charseq START="1603" END="1611">10 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T15" VAL="2004-10-17">
+      <timex2_mention ID="adige20041008_id414168-T15-1">
+        <extent>
+          <charseq START="1730" END="1748">domenica 17 ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T16" VAL="2004-10-17T16:30">
+      <timex2_mention ID="adige20041008_id414168-T16-1">
+        <extent>
+          <charseq START="1787" END="1796">alle 16.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T17" VAL="2004-W41" MOD="START">
+      <timex2_mention ID="adige20041008_id414168-T17-1">
+        <extent>
+          <charseq START="1876" END="1891">inizio settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T18" VAL="2003-12-30">
+      <timex2_mention ID="adige20041008_id414168-T18-1">
+        <extent>
+          <charseq START="2088" END="2120">del 30 dicembre dello scorso anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T19" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414168-T19-1">
+        <extent>
+          <charseq START="2163" END="2165">Ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T20" VAL="P2Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414168-T20-1">
+        <extent>
+          <charseq START="2268" END="2275">due anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414168-T21" VAL="2004-10-08">
+      <timex2_mention ID="adige20041008_id414168-T21-1">
+        <extent>
+          <charseq START="585" END="588">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

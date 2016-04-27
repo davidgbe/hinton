@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413956.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413956">
+    <timex2 ID="adige20041007_id413956-T1" VAL="PXW" ANCHOR_VAL="2004-W41" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413956-T1-1">
+        <extent>
+          <charseq START="410" END="431">nelle scorse settimane</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T2" VAL="PXNI">
+      <timex2_mention ID="adige20041007_id413956-T2-1">
+        <extent>
+          <charseq START="558" END="575">nelle ore notturne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T3" VAL="PXWE">
+      <timex2_mention ID="adige20041007_id413956-T3-1">
+        <extent>
+          <charseq START="579" END="596">nei fine settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T4" VAL="PXD">
+      <timex2_mention ID="adige20041007_id413956-T4-1">
+        <extent>
+          <charseq START="622" END="642">nei giorni lavorativi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T5" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413956-T5-1">
+        <extent>
+          <charseq START="712" END="715">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T6" VAL="T08:00">
+      <timex2_mention ID="adige20041007_id413956-T6-1">
+        <extent>
+          <charseq START="1105" END="1105">8</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T7" VAL="T20:00">
+      <timex2_mention ID="adige20041007_id413956-T7-1">
+        <extent>
+          <charseq START="1109" END="1110">20</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T8" VAL="PT30M">
+      <timex2_mention ID="adige20041007_id413956-T8-1">
+        <extent>
+          <charseq START="1117" END="1124">mezz'ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T9" VAL="2004-10-14">
+      <timex2_mention ID="adige20041007_id413956-T9-1">
+        <extent>
+          <charseq START="1277" END="1281">il 14</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T10" VAL="P1.5Y" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="STARTING">
+      <timex2_mention ID="adige20041007_id413956-T10-1">
+        <extent>
+          <charseq START="2329" END="2343">un anno e mezzo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T11">
+      <timex2_mention ID="adige20041007_id413956-T11-1">
+        <extent>
+          <charseq START="940" END="944">tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T12" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041007_id413956-T12-1">
+        <extent>
+          <charseq START="2156" END="2158">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T13">
+      <timex2_mention ID="adige20041007_id413956-T13-1">
+        <extent>
+          <charseq START="2822" END="2836">il tempo in più</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413956-T14">
+      <timex2_mention ID="adige20041007_id413956-T14-1">
+        <extent>
+          <charseq START="2999" END="3005">i tempi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

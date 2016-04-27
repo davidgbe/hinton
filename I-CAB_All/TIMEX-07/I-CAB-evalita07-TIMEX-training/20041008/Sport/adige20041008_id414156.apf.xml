@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414156.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414156">
+    <timex2 ID="adige20041008_id414156-T8" VAL="2005">
+      <timex2_mention ID="adige20041008_id414156-T8-1">
+        <extent>
+          <charseq START="1551" END="1560">Quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T6" VAL="2004">
+      <timex2_mention ID="adige20041008_id414156-T6-1">
+        <extent>
+          <charseq START="999" END="1015">dello scorso anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T7" VAL="2004-01">
+      <timex2_mention ID="adige20041008_id414156-T7-1">
+        <extent>
+          <charseq START="1416" END="1429">scorso gennaio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T1" VAL="P4M">
+      <timex2_mention ID="adige20041008_id414156-T1-1">
+        <extent>
+          <charseq START="49" END="54">4 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T9">
+      <timex2_mention ID="adige20041008_id414156-T9-1">
+        <extent>
+          <charseq START="135" END="137">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T2" VAL="P4M" MOD="LESS_THAN">
+      <timex2_mention ID="adige20041008_id414156-T2-1">
+        <extent>
+          <charseq START="259" END="277">poco meno di 4 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T3" VAL="2005-01-30">
+      <timex2_mention ID="adige20041008_id414156-T3-1">
+        <extent>
+          <charseq START="279" END="296">al 30 gennaio 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T4" VAL="2004">
+      <timex2_mention ID="adige20041008_id414156-T4-1">
+        <extent>
+          <charseq START="299" END="312">Lo scorso anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T10" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20041008_id414156-T10-1">
+        <extent>
+          <charseq START="1210" END="1227">la scorsa stagione</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414156-T5" VAL="2004">
+      <timex2_mention ID="adige20041008_id414156-T5-1">
+        <extent>
+          <charseq START="562" END="565">2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id413987.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id413987">
+    <timex2 ID="adige20041008_id413987-T4" VAL="2001-09-11">
+      <timex2_mention ID="adige20041008_id413987-T4-1">
+        <extent>
+          <charseq START="1597" END="1617">del 11 settembre 2001</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T5" VAL="2003-10-06">
+      <timex2_mention ID="adige20041008_id413987-T5-1">
+        <extent>
+          <charseq START="1826" END="1851">il 6 ottobre di un anno fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T7" VAL="2004-10-01">
+      <timex2_mention ID="adige20041008_id413987-T7-1">
+        <extent>
+          <charseq START="1963" END="1978">una settimana fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T1" VAL="2004-10-01">
+      <timex2_mention ID="adige20041008_id413987-T1-1">
+        <extent>
+          <charseq START="123" END="137">sette giorni fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T2" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id413987-T2-1">
+        <extent>
+          <charseq START="417" END="420">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T8" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id413987-T8-1">
+        <extent>
+          <charseq START="334" END="340">recente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T3" VAL="2004-10-01">
+      <timex2_mention ID="adige20041008_id413987-T3-1">
+        <extent>
+          <charseq START="747" END="762">una settimana fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T9" VAL="XXXX-XX-XX" SET="YES">
+      <timex2_mention ID="adige20041008_id413987-T9-1">
+        <extent>
+          <charseq START="928" END="937">quotidiano</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413987-T10" VAL="2004-10-07TNI">
+      <timex2_mention ID="adige20041008_id413987-T10-1">
+        <extent>
+          <charseq START="422" END="441">poco prima dell'alba</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

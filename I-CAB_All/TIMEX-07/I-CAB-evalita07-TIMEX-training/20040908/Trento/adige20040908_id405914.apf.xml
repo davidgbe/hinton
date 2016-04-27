@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405914.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405914">
+    <timex2 ID="adige20040908_id405914-T1" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405914-T1-1">
+        <extent>
+          <charseq START="365" END="375">attualmente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405914-T2" VAL="1974" MOD="APPROX">
+      <timex2_mention ID="adige20040908_id405914-T2-1">
+        <extent>
+          <charseq START="626" END="641">circa trent'anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414020.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414020">
+    <timex2 ID="adige20041008_id414020-T6" VAL="2004-07-09">
+      <timex2_mention ID="adige20041008_id414020-T6-1">
+        <extent>
+          <charseq START="578" END="595">Il 9 luglio scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T7" VAL="PXM" ANCHOR_VAL="2004-07" ANCHOR_DIR="STARTING">
+      <timex2_mention ID="adige20041008_id414020-T7-1">
+        <extent>
+          <charseq START="672" END="681">pochi mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T8" VAL="P40Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414020-T8-1">
+        <extent>
+          <charseq START="743" END="749">40 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T9" VAL="2004-09">
+      <timex2_mention ID="adige20041008_id414020-T9-1">
+        <extent>
+          <charseq START="904" END="930">lo scorso mese di settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T1" VAL="1960-10-05">
+      <timex2_mention ID="adige20041008_id414020-T1-1">
+        <extent>
+          <charseq START="65" END="81">il 5 ottobre 1960</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T10" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414020-T10-1">
+        <extent>
+          <charseq START="1059" END="1062">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T2" VAL="1961-03">
+      <timex2_mention ID="adige20041008_id414020-T2-1">
+        <extent>
+          <charseq START="84" END="101">Nel marzo del 1961</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T11" VAL="FUTURE_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20041008_id414020-T11-1">
+        <extent>
+          <charseq START="1096" END="1105">sul futuro</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T3" VAL="1963-05">
+      <timex2_mention ID="adige20041008_id414020-T3-1">
+        <extent>
+          <charseq START="202" END="216">Nel maggio 1963</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T12" VAL="2004-10-11">
+      <timex2_mention ID="adige20041008_id414020-T12-1">
+        <extent>
+          <charseq START="1172" END="1186">lunedì prossimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T4" VAL="1964">
+      <timex2_mention ID="adige20041008_id414020-T4-1">
+        <extent>
+          <charseq START="400" END="407">nel 1964</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414020-T5" VAL="2002">
+      <timex2_mention ID="adige20041008_id414020-T5-1">
+        <extent>
+          <charseq START="410" END="417">Nel 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

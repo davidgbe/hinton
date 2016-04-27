@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413910.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413910">
+    <timex2 ID="adige20041007_id413910-T1" VAL="2004-10-07TEV">
+      <timex2_mention ID="adige20041007_id413910-T1-1">
+        <extent>
+          <charseq START="290" END="300">questa sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T2" VAL="2004-10-07">
+      <timex2_mention ID="adige20041007_id413910-T2-1">
+        <extent>
+          <charseq START="303" END="319">giovedì 7 ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T3" VAL="2004-10-07T19:00">
+      <timex2_mention ID="adige20041007_id413910-T3-1">
+        <extent>
+          <charseq START="401" END="407">alle 19</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T4" VAL="2004-10-07T20:00" MOD="APPROX">
+      <timex2_mention ID="adige20041007_id413910-T4-1">
+        <extent>
+          <charseq START="476" END="488">alle 20 circa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T5" VAL="2004-10-09">
+      <timex2_mention ID="adige20041007_id413910-T5-1">
+        <extent>
+          <charseq START="1050" END="1064">Sabato prossimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T6" VAL="2004-10-10">
+      <timex2_mention ID="adige20041007_id413910-T6-1">
+        <extent>
+          <charseq START="1293" END="1298">dal 10</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T7" VAL="2004-10-13">
+      <timex2_mention ID="adige20041007_id413910-T7-1">
+        <extent>
+          <charseq START="1300" END="1312">al 13 ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T8" VAL="P15Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413910-T8-1">
+        <extent>
+          <charseq START="1344" END="1349">15enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T9" VAL="2005-SU">
+      <timex2_mention ID="adige20041007_id413910-T9-1">
+        <extent>
+          <charseq START="1484" END="1499">nell'estate 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T10">
+      <timex2_mention ID="adige20041007_id413910-T10-1">
+        <extent>
+          <charseq START="100" END="106">momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413910-T11" VAL="2004-09-07">
+      <timex2_mention ID="adige20041007_id413910-T11-1">
+        <extent>
+          <charseq START="13" END="16">OGGI</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

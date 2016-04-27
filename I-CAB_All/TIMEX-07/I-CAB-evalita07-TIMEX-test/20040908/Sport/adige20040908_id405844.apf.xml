@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405844.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405844">
+    <timex2 ID="adige20040908_id405844-T1" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405844-T1-1">
+        <extent>
+          <charseq START="125" END="128">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405844-T2" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040908_id405844-T2-1">
+        <extent>
+          <charseq START="476" END="513">dallo scorso fine settimana ciclistico</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405844-T3" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405844-T3-1">
+        <extent>
+          <charseq START="672" END="679">domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405844-T4" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405844-T4-1">
+        <extent>
+          <charseq START="1357" END="1364">domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405844-T5" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405844-T5-1">
+        <extent>
+          <charseq START="1722" END="1729">Domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405844-T6" VAL="2004">
+      <timex2_mention ID="adige20040908_id405844-T6-1">
+        <extent>
+          <charseq START="1964" END="1973">Quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405844-T7" VAL="2004-09-11">
+      <timex2_mention ID="adige20040908_id405844-T7-1">
+        <extent>
+          <charseq START="2237" END="2242">Sabato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

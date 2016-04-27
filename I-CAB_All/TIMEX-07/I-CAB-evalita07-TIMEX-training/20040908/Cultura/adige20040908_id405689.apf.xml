@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405689.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405689">
+    <timex2 ID="adige20040908_id405689-T5" VAL="T09:30">
+      <timex2_mention ID="adige20040908_id405689-T5-1">
+        <extent>
+          <charseq START="2326" END="2335">dalle 9.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T6" VAL="T20:00">
+      <timex2_mention ID="adige20040908_id405689-T6-1">
+        <extent>
+          <charseq START="2337" END="2343">alle 20</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T7" VAL="2004-09-12">
+      <timex2_mention ID="adige20040908_id405689-T7-1">
+        <extent>
+          <charseq START="2350" END="2364">al 12 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T8" VAL="PXD" MOD="END">
+      <timex2_mention ID="adige20040908_id405689-T8-1">
+        <extent>
+          <charseq START="2456" END="2472">gli ultimi giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T1" VAL="2004-W36-7">
+      <timex2_mention ID="adige20040908_id405689-T1-1">
+        <extent>
+          <charseq START="132" END="144">una settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T10">
+      <timex2_mention ID="adige20040908_id405689-T10-1">
+        <extent>
+          <charseq START="1094" END="1101">al tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T9" VAL="2005">
+      <timex2_mention ID="adige20040908_id405689-T9-1">
+        <extent>
+          <charseq START="2564" END="2579">il prossimo anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T2" VAL="2004-09-12">
+      <timex2_mention ID="adige20040908_id405689-T2-1">
+        <extent>
+          <charseq START="175" END="195">domenica 12 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T3" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405689-T3-1">
+        <extent>
+          <charseq START="264" END="274">attualmente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405689-T4" VAL="XXXX-XX-XX" SET="YES">
+      <timex2_mention ID="adige20040908_id405689-T4-1">
+        <extent>
+          <charseq START="2311" END="2324">tutti i giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

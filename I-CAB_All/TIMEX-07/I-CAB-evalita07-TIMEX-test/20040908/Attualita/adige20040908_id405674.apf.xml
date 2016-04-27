@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405674.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405674">
+    <timex2 ID="adige20040908_id405674-T1" VAL="P6Y" MOD="EQUAL_OR_MORE">
+      <timex2_mention ID="adige20040908_id405674-T1-1">
+        <extent>
+          <charseq START="1069" END="1083">almeno sei anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405674-T2" VAL="P1Y" MOD="MORE_THAN">
+      <timex2_mention ID="adige20040908_id405674-T2-1">
+        <extent>
+          <charseq START="1710" END="1722">oltre un anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

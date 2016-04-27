@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405702.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405702">
+    <timex2 ID="adige20040908_id405702-T1" VAL="2004-09-06">
+      <timex2_mention ID="adige20040908_id405702-T1-1">
+        <extent>
+          <charseq START="158" END="163">lunedì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T2" VAL="PXD">
+      <timex2_mention ID="adige20040908_id405702-T2-1">
+        <extent>
+          <charseq START="274" END="293">le migliori giornate</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T3" VAL="2004-09-06">
+      <timex2_mention ID="adige20040908_id405702-T3-1">
+        <extent>
+          <charseq START="545" END="550">lunedì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T4" VAL="2004-09-06">
+      <timex2_mention ID="adige20040908_id405702-T4-1">
+        <extent>
+          <charseq START="2349" END="2359">La giornata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T5" VAL="198">
+      <timex2_mention ID="adige20040908_id405702-T5-1">
+        <extent>
+          <charseq START="2465" END="2476">anni Ottanta</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T6" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405702-T6-1">
+        <extent>
+          <charseq START="2540" END="2543">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T7" VAL="P45Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405702-T7-1">
+        <extent>
+          <charseq START="2632" END="2648">quarantacinquenne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T8" VAL="PAST_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040908_id405702-T8-1">
+        <extent>
+          <charseq START="2686" END="2691">allora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T9" VAL="2004-09-08T18:00">
+      <timex2_mention ID="adige20040908_id405702-T9-1">
+        <extent>
+          <charseq START="2805" END="2811">Alle 18</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405702-T10" VAL="2004-09-06TEV">
+      <timex2_mention ID="adige20040908_id405702-T10-1">
+        <extent>
+          <charseq START="471" END="476">serale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

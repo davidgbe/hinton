@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413942.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413942">
+    <timex2 ID="adige20041007_id413942-T5" VAL="2004-10-07T17:30">
+      <timex2_mention ID="adige20041007_id413942-T5-1">
+        <extent>
+          <charseq START="266" END="275">alle 17.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413942-T1" VAL="P4M" MOD="MORE_THAN" ANCHOR_VAL="XXXX-XX" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413942-T1-1">
+        <extent>
+          <charseq START="143" END="150">i 4 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413942-T2" VAL="2004-W40">
+      <timex2_mention ID="adige20041007_id413942-T2-1">
+        <extent>
+          <charseq START="160" END="188">La prima settimana di ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413942-T7" VAL="XXXX-XX" SET="YES">
+      <timex2_mention ID="adige20041007_id413942-T7-1">
+        <extent>
+          <charseq START="1120" END="1128">Ogni mese</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413942-T6" VAL="2004-10-07">
+      <timex2_mention ID="adige20041007_id413942-T6-1">
+        <extent>
+          <charseq START="2" END="5">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413942-T3" VAL="2004-W40">
+      <timex2_mention ID="adige20041007_id413942-T3-1">
+        <extent>
+          <charseq START="209" END="232">settimana internazionale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413942-T8" VAL="P4M" ANCHOR_VAL="XXXX-XX" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413942-T8-1">
+        <extent>
+          <charseq START="1184" END="1195">quattro mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413942-T4" VAL="2004-10-07">
+      <timex2_mention ID="adige20041007_id413942-T4-1">
+        <extent>
+          <charseq START="261" END="264">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

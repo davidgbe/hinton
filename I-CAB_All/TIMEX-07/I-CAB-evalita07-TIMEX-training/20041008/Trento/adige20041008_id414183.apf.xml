@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414183.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414183">
+    <timex2 ID="adige20041008_id414183-T5" VAL="PXY" ANCHOR_VAL="2004" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20041008_id414183-T5-1">
+        <extent>
+          <charseq START="1239" END="1255">nei prossimi anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414183-T6" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414183-T6-1">
+        <extent>
+          <charseq START="1886" END="1889">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414183-T7" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414183-T7-1">
+        <extent>
+          <charseq START="2525" END="2527">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414183-T1" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414183-T1-1">
+        <extent>
+          <charseq START="131" END="134">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414183-T3" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414183-T3-1">
+        <extent>
+          <charseq START="581" END="584">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414183-T2" VAL="2004-SU">
+      <timex2_mention ID="adige20041008_id414183-T2-1">
+        <extent>
+          <charseq START="333" END="343">dell'estate</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414183-T4" VAL="2004-10-07TMO">
+      <timex2_mention ID="adige20041008_id414183-T4-1">
+        <extent>
+          <charseq START="878" END="889">ieri mattina</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

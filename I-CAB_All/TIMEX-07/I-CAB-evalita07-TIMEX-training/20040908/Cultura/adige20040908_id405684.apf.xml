@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405684.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405684">
+    <timex2 ID="adige20040908_id405684-T20" VAL="2004-09-08T21:00">
+      <timex2_mention ID="adige20040908_id405684-T20-1">
+        <extent>
+          <charseq START="3874" END="3879">ore 21</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T12" VAL="2004-09-08T21:00">
+      <timex2_mention ID="adige20040908_id405684-T12-1">
+        <extent>
+          <charseq START="2813" END="2818">ore 21</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T4" VAL="2004-09-10">
+      <timex2_mention ID="adige20040908_id405684-T4-1">
+        <extent>
+          <charseq START="667" END="676">venerdì 10</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T29" VAL="2004-09-08T23:30">
+      <timex2_mention ID="adige20040908_id405684-T29-1">
+        <extent>
+          <charseq START="4753" END="4762">alle 23,30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T21" VAL="2004-09-08T21:00">
+      <timex2_mention ID="adige20040908_id405684-T21-1">
+        <extent>
+          <charseq START="4049" END="4054">ore 21</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T13" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405684-T13-1">
+        <extent>
+          <charseq START="2871" END="2874">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T5" VAL="2004-09-08T09:30">
+      <timex2_mention ID="adige20040908_id405684-T5-1">
+        <extent>
+          <charseq START="990" END="997">ore 9.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T30" VAL="2004-09-08T22:30">
+      <timex2_mention ID="adige20040908_id405684-T30-1">
+        <extent>
+          <charseq START="4933" END="4941">ore 22.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T22" VAL="2004-09-08T21:00">
+      <timex2_mention ID="adige20040908_id405684-T22-1">
+        <extent>
+          <charseq START="4141" END="4146">ore 21</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T14" VAL="T19:00">
+      <timex2_mention ID="adige20040908_id405684-T14-1">
+        <extent>
+          <charseq START="3077" END="3082">ore 19</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T6" VAL="2004-09-09">
+      <timex2_mention ID="adige20040908_id405684-T6-1">
+        <extent>
+          <charseq START="1101" END="1109">giovedì 9</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T23" VAL="2004-09-08TEV">
+      <timex2_mention ID="adige20040908_id405684-T23-1">
+        <extent>
+          <charseq START="4213" END="4223">questa sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T15" VAL="T24:00">
+      <timex2_mention ID="adige20040908_id405684-T15-1">
+        <extent>
+          <charseq START="3084" END="3085">24</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T24" VAL="2004-09-08T22:00">
+      <timex2_mention ID="adige20040908_id405684-T24-1">
+        <extent>
+          <charseq START="4387" END="4392">ore 22</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T7" VAL="2004-09-08T15:00">
+      <timex2_mention ID="adige20040908_id405684-T7-1">
+        <extent>
+          <charseq START="2076" END="2081">ore 15</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T16" VAL="2004-09-11">
+      <timex2_mention ID="adige20040908_id405684-T16-1">
+        <extent>
+          <charseq START="3094" END="3112">sabato 11 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T8" VAL="1954">
+      <timex2_mention ID="adige20040908_id405684-T8-1">
+        <extent>
+          <charseq START="2208" END="2214">50 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T25" VAL="2004-09-08T22:30">
+      <timex2_mention ID="adige20040908_id405684-T25-1">
+        <extent>
+          <charseq START="4396" END="4400">22.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T17" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405684-T17-1">
+        <extent>
+          <charseq START="3202" END="3205">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T26" VAL="2004-09-08TEV">
+      <timex2_mention ID="adige20040908_id405684-T26-1">
+        <extent>
+          <charseq START="4590" END="4596">stasera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T18" VAL="2004-09-08T20:45">
+      <timex2_mention ID="adige20040908_id405684-T18-1">
+        <extent>
+          <charseq START="3572" END="3580">ore 20.45</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T27" VAL="PT15M">
+      <timex2_mention ID="adige20040908_id405684-T27-1">
+        <extent>
+          <charseq START="4705" END="4713">15 minuti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T28" VAL="2004-09-08T22:00">
+      <timex2_mention ID="adige20040908_id405684-T28-1">
+        <extent>
+          <charseq START="4733" END="4739">alle 22</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T31" VAL="TEV">
+      <timex2_mention ID="adige20040908_id405684-T31-1">
+        <extent>
+          <charseq START="4503" END="4513">alla serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T9" VAL="2004-09-08T18:00">
+      <timex2_mention ID="adige20040908_id405684-T9-1">
+        <extent>
+          <charseq START="2376" END="2381">ore 18</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T1" VAL="2004-09-08T07:30">
+      <timex2_mention ID="adige20040908_id405684-T1-1">
+        <extent>
+          <charseq START="56" END="63">ore 7.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T10" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405684-T10-1">
+        <extent>
+          <charseq START="2532" END="2535">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T2" VAL="2004-09-08T12:00">
+      <timex2_mention ID="adige20040908_id405684-T2-1">
+        <extent>
+          <charseq START="65" END="66">12</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T19" VAL="2004-09-08T21:00">
+      <timex2_mention ID="adige20040908_id405684-T19-1">
+        <extent>
+          <charseq START="3725" END="3730">ore 21</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T11" VAL="2004-09-08T18:00">
+      <timex2_mention ID="adige20040908_id405684-T11-1">
+        <extent>
+          <charseq START="2670" END="2675">ore 18</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405684-T3" VAL="2004-09-08T09:00">
+      <timex2_mention ID="adige20040908_id405684-T3-1">
+        <extent>
+          <charseq START="237" END="241">ore 9</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

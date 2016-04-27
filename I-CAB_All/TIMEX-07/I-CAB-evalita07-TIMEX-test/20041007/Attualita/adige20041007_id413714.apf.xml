@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413714.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413714">
+    <timex2 ID="adige20041007_id413714-T1" VAL="P10Y" MOD="EQUAL_OR_MORE">
+      <timex2_mention ID="adige20041007_id413714-T1-1">
+        <extent>
+          <charseq START="89" END="105">almeno dieci anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T2" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413714-T2-1">
+        <extent>
+          <charseq START="222" END="225">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T3" VAL="2005-H2">
+      <timex2_mention ID="adige20041007_id413714-T3-1">
+        <extent>
+          <charseq START="1018" END="1046">nel secondo semestre del 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T4" VAL="PXY" ANCHOR_VAL="2004" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20041007_id413714-T4-1">
+        <extent>
+          <charseq START="1176" END="1185">molti anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T5" VAL="2004-12-17">
+      <timex2_mention ID="adige20041007_id413714-T5-1">
+        <extent>
+          <charseq START="1450" END="1463">il 17 dicembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T6" VAL="P50Y" MOD="MORE_THAN" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413714-T6-1">
+        <extent>
+          <charseq START="2020" END="2038">oltre cinquant'anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T7" VAL="2007">
+      <timex2_mention ID="adige20041007_id413714-T7-1">
+        <extent>
+          <charseq START="2140" END="2143">2007</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T8" VAL="2013">
+      <timex2_mention ID="adige20041007_id413714-T8-1">
+        <extent>
+          <charseq START="2145" END="2148">2013</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413714-T9" VAL="2014">
+      <timex2_mention ID="adige20041007_id413714-T9-1">
+        <extent>
+          <charseq START="2368" END="2375">del 2014</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405615.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405615">
+    <timex2 ID="adige20040907_id405615-T5" VAL="2004-10">
+      <timex2_mention ID="adige20040907_id405615-T5-1">
+        <extent>
+          <charseq START="3353" END="3359">ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405615-T4" VAL="2004-09-17">
+      <timex2_mention ID="adige20040907_id405615-T4-1">
+        <extent>
+          <charseq START="3196" END="3211">del 17 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405615-T1" VAL="2004-09-07">
+      <timex2_mention ID="adige20040907_id405615-T1-1">
+        <extent>
+          <charseq START="288" END="291">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405615-T2" VAL="PXY">
+      <timex2_mention ID="adige20040907_id405615-T2-1">
+        <extent>
+          <charseq START="690" END="693">anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405615-T3" VAL="2004-09-07">
+      <timex2_mention ID="adige20040907_id405615-T3-1">
+        <extent>
+          <charseq START="3188" END="3192">del 7</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

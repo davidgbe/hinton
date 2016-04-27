@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405419.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405419">
+    <timex2 ID="adige20040907_id405419-T8" VAL="PRESENT_REF" ANCHOR_VAL="2004" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405419-T8-1">
+        <extent>
+          <charseq START="1731" END="1741">questi anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T1" VAL="2004-09-22">
+      <timex2_mention ID="adige20040907_id405419-T1-1">
+        <extent>
+          <charseq START="19" END="33">il 22 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T2" VAL="2004-09-04TEV">
+      <timex2_mention ID="adige20040907_id405419-T2-1">
+        <extent>
+          <charseq START="433" END="450">della lunga serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T3" VAL="2004-09-04">
+      <timex2_mention ID="adige20040907_id405419-T3-1">
+        <extent>
+          <charseq START="455" END="467">sabato scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T4" VAL="PT3H" ANCHOR_VAL="2004-09-04TXX" ANCHOR_DIR="WITHIN">
+      <timex2_mention ID="adige20040907_id405419-T4-1">
+        <extent>
+          <charseq START="496" END="505">le tre ore</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T5" VAL="2004-09-04TNI">
+      <timex2_mention ID="adige20040907_id405419-T5-1">
+        <extent>
+          <charseq START="2791" END="2798">la notte</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T9" VAL="2004-SU">
+      <timex2_mention ID="adige20040907_id405419-T9-1">
+        <extent>
+          <charseq START="3513" END="3518">estivo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T6" VAL="2004-09-22">
+      <timex2_mention ID="adige20040907_id405419-T6-1">
+        <extent>
+          <charseq START="3353" END="3367">il 22 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T7" VAL="2004-09-04">
+      <timex2_mention ID="adige20040907_id405419-T7-1">
+        <extent>
+          <charseq START="423" END="431">nel tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T10" VAL="PAST_REF" ANCHOR_VAL="2004-09-04" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040907_id405419-T10-1">
+        <extent>
+          <charseq START="2447" END="2458">quel momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405419-T12">
+      <timex2_mention ID="adige20040907_id405419-T12-1">
+        <extent>
+          <charseq START="849" END="855">Momenti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

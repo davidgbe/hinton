@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414175.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414175">
+    <timex2 ID="adige20041008_id414175-T1" VAL="2004-10-09">
+      <timex2_mention ID="adige20041008_id414175-T1-1">
+        <extent>
+          <charseq START="16" END="21">Domani</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T2" VAL="2004-10-09T18:45">
+      <timex2_mention ID="adige20041008_id414175-T2-1">
+        <extent>
+          <charseq START="61" END="71">dalle 18.45</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T3" VAL="P29Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414175-T3-1">
+        <extent>
+          <charseq START="716" END="722">anni 29</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T4" VAL="1998">
+      <timex2_mention ID="adige20041008_id414175-T4-1">
+        <extent>
+          <charseq START="809" END="831">l'Anno del Signore 1998</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T5" VAL="1997">
+      <timex2_mention ID="adige20041008_id414175-T5-1">
+        <extent>
+          <charseq START="853" END="859">nel '97</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T6" VAL="2004-10-09">
+      <timex2_mention ID="adige20041008_id414175-T6-1">
+        <extent>
+          <charseq START="1084" END="1089">domani</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T7" VAL="2004-10-09T18:45">
+      <timex2_mention ID="adige20041008_id414175-T7-1">
+        <extent>
+          <charseq START="1091" END="1101">dalle 18.45</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T8" VAL="2004-10-09T15:00">
+      <timex2_mention ID="adige20041008_id414175-T8-1">
+        <extent>
+          <charseq START="1367" END="1374">dalle 15</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T9" VAL="2004-10-09">
+      <timex2_mention ID="adige20041008_id414175-T9-1">
+        <extent>
+          <charseq START="1400" END="1405">domani</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T10" VAL="2004-WI">
+      <timex2_mention ID="adige20041008_id414175-T10-1">
+        <extent>
+          <charseq START="1433" END="1449">lo scorso inverno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T11" VAL="2004-SU">
+      <timex2_mention ID="adige20041008_id414175-T11-1">
+        <extent>
+          <charseq START="1495" END="1506">quest'estate</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T12" VAL="PT13M52S">
+      <timex2_mention ID="adige20041008_id414175-T12-1">
+        <extent>
+          <charseq START="1543" END="1549">13'52"5</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T13" VAL="PT28M52S">
+      <timex2_mention ID="adige20041008_id414175-T13-1">
+        <extent>
+          <charseq START="1563" END="1570">28'52"21</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T14" VAL="PXW" ANCHOR_VAL="2004-W41" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414175-T14-1">
+        <extent>
+          <charseq START="1617" END="1638">Nelle ultime settimane</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T15" VAL="2004-12-12">
+      <timex2_mention ID="adige20041008_id414175-T15-1">
+        <extent>
+          <charseq START="1778" END="1792">del 12 dicembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T16" VAL="2004-10-09">
+      <timex2_mention ID="adige20041008_id414175-T16-1">
+        <extent>
+          <charseq START="1850" END="1855">domani</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T17" VAL="P60Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414175-T17-1">
+        <extent>
+          <charseq START="1954" END="1960">60 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T18" VAL="2006">
+      <timex2_mention ID="adige20041008_id414175-T18-1">
+        <extent>
+          <charseq START="2097" END="2104">dal 2006</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T19" VAL="P3W" ANCHOR_VAL="2004-W41" ANCHOR_DIR="STARTING">
+      <timex2_mention ID="adige20041008_id414175-T19-1">
+        <extent>
+          <charseq START="2343" END="2353">3 settimane</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414175-T20" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20041008_id414175-T20-1">
+        <extent>
+          <charseq START="2059" END="2083">sulla mia ultima stagione</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

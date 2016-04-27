@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405894.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405894">
+    <timex2 ID="adige20040908_id405894-T5">
+      <timex2_mention ID="adige20040908_id405894-T5-1">
+        <extent>
+          <charseq START="1513" END="1530">il tempo trascorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405894-T1" VAL="1999">
+      <timex2_mention ID="adige20040908_id405894-T1-1">
+        <extent>
+          <charseq START="1325" END="1332">dal 1999</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405894-T2" VAL="2003">
+      <timex2_mention ID="adige20040908_id405894-T2-1">
+        <extent>
+          <charseq START="1334" END="1340">al 2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405894-T3" VAL="PAST_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040908_id405894-T3-1">
+        <extent>
+          <charseq START="1427" END="1439">tempi recenti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405894-T4" VAL="1992">
+      <timex2_mention ID="adige20040908_id405894-T4-1">
+        <extent>
+          <charseq START="1497" END="1504">nel 1992</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

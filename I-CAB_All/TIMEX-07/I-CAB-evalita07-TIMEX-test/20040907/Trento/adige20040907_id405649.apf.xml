@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405649.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405649">
+    <timex2 ID="adige20040907_id405649-T1" VAL="PXM" ANCHOR_VAL="2004-09" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040907_id405649-T1-1">
+        <extent>
+          <charseq START="486" END="496">questi mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T2" VAL="2001">
+      <timex2_mention ID="adige20040907_id405649-T2-1">
+        <extent>
+          <charseq START="830" END="837">del 2001</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T3" VAL="2004-06-30">
+      <timex2_mention ID="adige20040907_id405649-T3-1">
+        <extent>
+          <charseq START="1417" END="1442">il 30 giugno di quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T4" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405649-T4-1">
+        <extent>
+          <charseq START="1653" END="1662">il momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T5" VAL="FUTURE_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20040907_id405649-T5-1">
+        <extent>
+          <charseq START="1740" END="1749">l'avvenire</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T6" VAL="PXD" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040907_id405649-T6-1">
+        <extent>
+          <charseq START="1929" END="1945">Nei giorni scorsi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T7" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405649-T7-1">
+        <extent>
+          <charseq START="3419" END="3425">attuali</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T8" VAL="FUTURE_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20040907_id405649-T8-1">
+        <extent>
+          <charseq START="3470" END="3475">future</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405649-T9" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405649-T9-1">
+        <extent>
+          <charseq START="2815" END="2821">attuale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

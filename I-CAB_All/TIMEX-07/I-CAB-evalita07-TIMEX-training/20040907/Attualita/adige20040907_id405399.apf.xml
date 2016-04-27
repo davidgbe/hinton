@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405399.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405399">
+    <timex2 ID="adige20040907_id405399-T6" VAL="2004-05-16">
+      <timex2_mention ID="adige20040907_id405399-T6-1">
+        <extent>
+          <charseq START="2071" END="2082">il 16 maggio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405399-T7">
+      <timex2_mention ID="adige20040907_id405399-T7-1">
+        <extent>
+          <charseq START="514" END="528">un po' di tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405399-T1" VAL="P4M" ANCHOR_VAL="2004-09" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405399-T1-1">
+        <extent>
+          <charseq START="7" END="18">quattro mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405399-T8">
+      <timex2_mention ID="adige20040907_id405399-T8-1">
+        <extent>
+          <charseq START="1119" END="1123">tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405399-T2" VAL="2004-09-06">
+      <timex2_mention ID="adige20040907_id405399-T2-1">
+        <extent>
+          <charseq START="444" END="447">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405399-T3" VAL="P4M" ANCHOR_VAL="2004-09" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405399-T3-1">
+        <extent>
+          <charseq START="476" END="481">4 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405399-T4" VAL="P4M" ANCHOR_VAL="2004-09" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405399-T4-1">
+        <extent>
+          <charseq START="1128" END="1139">Quattro mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405399-T5" VAL="FUTURE_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20040907_id405399-T5-1">
+        <extent>
+          <charseq START="1554" END="1562">il futuro</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

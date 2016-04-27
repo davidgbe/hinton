@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414194.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414194">
+    <timex2 ID="adige20041008_id414194-T6" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414194-T6-1">
+        <extent>
+          <charseq START="387" END="393">attuale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414194-T4" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414194-T4-1">
+        <extent>
+          <charseq START="1490" END="1491">ex</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414194-T1" VAL="2004-10-08">
+      <timex2_mention ID="adige20041008_id414194-T1-1">
+        <extent>
+          <charseq START="461" END="472">all'indomani</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414194-T5" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414194-T5-1">
+        <extent>
+          <charseq START="265" END="267">qui</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414194-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414194-T2-1">
+        <extent>
+          <charseq START="1459" END="1462">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

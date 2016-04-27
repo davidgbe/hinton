@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413713.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413713">
+    <timex2 ID="adige20041007_id413713-T1" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413713-T1-1">
+        <extent>
+          <charseq START="204" END="207">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413713-T2" VAL="2003-11-12">
+      <timex2_mention ID="adige20041007_id413713-T2-1">
+        <extent>
+          <charseq START="370" END="391">del 12 novembre scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413713-T4" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413713-T4-1">
+        <extent>
+          <charseq START="1154" END="1170">il settimo giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413713-T5" VAL="2004-10-06TMO">
+      <timex2_mention ID="adige20041007_id413713-T5-1">
+        <extent>
+          <charseq START="1354" END="1361">all'alba</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413713-T6" VAL="P1W" ANCHOR_VAL="2004-W41" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413713-T6-1">
+        <extent>
+          <charseq START="1516" END="1536">Nell'ultima settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413713-T7" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413713-T7-1">
+        <extent>
+          <charseq START="1349" END="1352">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413713-T8" VAL="1998">
+      <timex2_mention ID="adige20041007_id413713-T8-1">
+        <extent>
+          <charseq START="1021" END="1028">nel 1998</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

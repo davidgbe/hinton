@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413943.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413943">
+    <timex2 ID="adige20041007_id413943-T10" VAL="PAST_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413943-T10-1">
+        <extent>
+          <charseq START="477" END="487">a suo tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T11">
+      <timex2_mention ID="adige20041007_id413943-T11-1">
+        <extent>
+          <charseq START="673" END="677">tempi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T9" VAL="XXXX-WXX" SET="YES">
+      <timex2_mention ID="adige20041007_id413943-T9-1">
+        <extent>
+          <charseq START="1269" END="1282">alla settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T1" VAL="PAST_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413943-T1-1">
+        <extent>
+          <charseq START="284" END="295">Recentemente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T2" VAL="2003">
+      <timex2_mention ID="adige20041007_id413943-T2-1">
+        <extent>
+          <charseq START="760" END="767">del 2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T12">
+      <timex2_mention ID="adige20041007_id413943-T12-1">
+        <extent>
+          <charseq START="153" END="171">Tempi troppo lunghi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T3" VAL="P21D" ANCHOR_VAL="XXXX-XX-XX" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20041007_id413943-T3-1">
+        <extent>
+          <charseq START="920" END="928">21 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T4" VAL="P5D">
+      <timex2_mention ID="adige20041007_id413943-T4-1">
+        <extent>
+          <charseq START="991" END="991">5</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T5" VAL="P9D">
+      <timex2_mention ID="adige20041007_id413943-T5-1">
+        <extent>
+          <charseq START="993" END="1000">9 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T6" VAL="P10D">
+      <timex2_mention ID="adige20041007_id413943-T6-1">
+        <extent>
+          <charseq START="1017" END="1018">10</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T7" VAL="P15D">
+      <timex2_mention ID="adige20041007_id413943-T7-1">
+        <extent>
+          <charseq START="1020" END="1028">15 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413943-T8" VAL="P1D">
+      <timex2_mention ID="adige20041007_id413943-T8-1">
+        <extent>
+          <charseq START="1259" END="1267">un giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

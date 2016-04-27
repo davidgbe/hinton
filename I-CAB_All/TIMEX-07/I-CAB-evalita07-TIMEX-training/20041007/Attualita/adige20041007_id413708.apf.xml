@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413708.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413708">
+    <timex2 ID="adige20041007_id413708-T1" VAL="2005-06">
+      <timex2_mention ID="adige20041007_id413708-T1-1">
+        <extent>
+          <charseq START="166" END="176">giugno 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413708-T2" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413708-T2-1">
+        <extent>
+          <charseq START="805" END="808">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413708-T3" VAL="2004-07">
+      <timex2_mention ID="adige20041007_id413708-T3-1">
+        <extent>
+          <charseq START="878" END="883">luglio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413708-T4" VAL="2004-09-30">
+      <timex2_mention ID="adige20041007_id413708-T4-1">
+        <extent>
+          <charseq START="934" END="948">il 30 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413708-T7" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20041007_id413708-T7-1">
+        <extent>
+          <charseq START="2343" END="2360">una nuova stagione</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413708-T5" VAL="2005-06">
+      <timex2_mention ID="adige20041007_id413708-T5-1">
+        <extent>
+          <charseq START="2223" END="2233">giugno 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413708-T6" VAL="2004">
+      <timex2_mention ID="adige20041007_id413708-T6-1">
+        <extent>
+          <charseq START="2276" END="2279">2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

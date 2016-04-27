@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414217.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414217">
+    <timex2 ID="adige20041008_id414217-T1" VAL="2004-10-05TEV">
+      <timex2_mention ID="adige20041008_id414217-T1-1">
+        <extent>
+          <charseq START="190" END="201">martedì sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414217-T2" VAL="P21Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414217-T2-1">
+        <extent>
+          <charseq START="280" END="288">un 21enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414217-T3" VAL="P26Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414217-T3-1">
+        <extent>
+          <charseq START="321" END="330">una 26enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414217-T4" VAL="PTXM">
+      <timex2_mention ID="adige20041008_id414217-T4-1">
+        <extent>
+          <charseq START="516" END="534">Dopo qualche minuto</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414217-T5" VAL="P15D">
+      <timex2_mention ID="adige20041008_id414217-T5-1">
+        <extent>
+          <charseq START="827" END="835">15 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414217-T6" VAL="P60Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414217-T6-1">
+        <extent>
+          <charseq START="869" END="875">60 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

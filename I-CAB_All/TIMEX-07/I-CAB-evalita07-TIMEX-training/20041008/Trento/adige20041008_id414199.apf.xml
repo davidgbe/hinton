@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414199.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414199">
+    <timex2 ID="adige20041008_id414199-T3" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041008_id414199-T3-1">
+        <extent>
+          <charseq START="277" END="282">l'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414199-T1" VAL="1967">
+      <timex2_mention ID="adige20041008_id414199-T1-1">
+        <extent>
+          <charseq START="97" END="104">nel 1967</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414199-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414199-T2-1">
+        <extent>
+          <charseq START="193" END="196">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id413988.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id413988">
+    <timex2 ID="adige20041008_id413988-T1" VAL="P3D" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id413988-T1-1">
+        <extent>
+          <charseq START="616" END="625">tre giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413988-T2" VAL="2004-10-06">
+      <timex2_mention ID="adige20041008_id413988-T2-1">
+        <extent>
+          <charseq START="635" END="643">mercoledì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413988-T3" VAL="2004-10-07TMO">
+      <timex2_mention ID="adige20041008_id413988-T3-1">
+        <extent>
+          <charseq START="772" END="783">ieri mattina</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413988-T4" VAL="P28Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id413988-T4-1">
+        <extent>
+          <charseq START="869" END="879">ventottenne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413988-T5" VAL="PAST_REF" ANCHOR_VAL="20" ANCHOR_DIR="WITHIN">
+      <timex2_mention ID="adige20041008_id413988-T5-1">
+        <extent>
+          <charseq START="1051" END="1056">secoli</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

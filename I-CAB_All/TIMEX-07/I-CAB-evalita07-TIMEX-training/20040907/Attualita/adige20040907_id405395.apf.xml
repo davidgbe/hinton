@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405395.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405395">
+    <timex2 ID="adige20040907_id405395-T1" VAL="2004-09-06">
+      <timex2_mention ID="adige20040907_id405395-T1-1">
+        <extent>
+          <charseq START="159" END="162">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405395-T4">
+      <timex2_mention ID="adige20040907_id405395-T4-1">
+        <extent>
+          <charseq START="87" END="106">il momento opportuno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405395-T2" VAL="2003-09-07" MOD="APPROX">
+      <timex2_mention ID="adige20040907_id405395-T2-1">
+        <extent>
+          <charseq START="236" END="251">circa un anno fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405395-T3" VAL="PRESENT_REF" ANCHOR_VAL="2004" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405395-T3-1">
+        <extent>
+          <charseq START="336" END="339">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

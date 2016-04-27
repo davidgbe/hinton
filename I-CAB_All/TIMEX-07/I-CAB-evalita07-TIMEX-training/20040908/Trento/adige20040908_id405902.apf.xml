@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405902.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405902">
+    <timex2 ID="adige20040908_id405902-T5" VAL="2004-09-07TEV">
+      <timex2_mention ID="adige20040908_id405902-T5-1">
+        <extent>
+          <charseq START="456" END="461">serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T6" VAL="2004-09-07T11:30" MOD="APPROX">
+      <timex2_mention ID="adige20040908_id405902-T6-1">
+        <extent>
+          <charseq START="556" END="581">verso le 11.30 del mattino</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T7" VAL="2004-09-07T13:30">
+      <timex2_mention ID="adige20040908_id405902-T7-1">
+        <extent>
+          <charseq START="592" END="603">due ore dopo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T8" VAL="PT1H" MOD="MORE_THAN">
+      <timex2_mention ID="adige20040908_id405902-T8-1">
+        <extent>
+          <charseq START="872" END="883">oltre un'ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T9" VAL="PT0.5H">
+      <timex2_mention ID="adige20040908_id405902-T9-1">
+        <extent>
+          <charseq START="1198" END="1209">una mezz'ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T10" VAL="2004-09-07T13:30">
+      <timex2_mention ID="adige20040908_id405902-T10-1">
+        <extent>
+          <charseq START="1310" END="1323">Verso le 13.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T1" VAL="P64Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405902-T1-1">
+        <extent>
+          <charseq START="18" END="23">64enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T2" VAL="2004-09-07T13:30">
+      <timex2_mention ID="adige20040908_id405902-T2-1">
+        <extent>
+          <charseq START="74" END="85">dopo due ore</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T3" VAL="P64Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405902-T3-1">
+        <extent>
+          <charseq START="317" END="323">64 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405902-T4" VAL="2004-09-07TAF">
+      <timex2_mention ID="adige20040908_id405902-T4-1">
+        <extent>
+          <charseq START="362" END="380">l'intero pomeriggio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

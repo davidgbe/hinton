@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413887.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413887">
+    <timex2 ID="adige20041007_id413887-T11" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20041007_id413887-T11-1">
+        <extent>
+          <charseq START="2775" END="2787">fine stagione</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T1" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041007_id413887-T1-1">
+        <extent>
+          <charseq START="33" END="39">per ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041007_id413887-T2-1">
+        <extent>
+          <charseq START="165" END="174">il momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T8" VAL="PAST_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413887-T8-1">
+        <extent>
+          <charseq START="746" END="752">recente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T9" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20041007_id413887-T9-1">
+        <extent>
+          <charseq START="1283" END="1296">della stagione</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T3" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413887-T3-1">
+        <extent>
+          <charseq START="542" END="545">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T4" VAL="FUTURE_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20041007_id413887-T4-1">
+        <extent>
+          <charseq START="1174" END="1187">qualche giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T10" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20041007_id413887-T10-1">
+        <extent>
+          <charseq START="2044" END="2062">una stagione facile</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T5" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041007_id413887-T5-1">
+        <extent>
+          <charseq START="1266" END="1281">un lungo periodo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T6" VAL="2005-01">
+      <timex2_mention ID="adige20041007_id413887-T6-1">
+        <extent>
+          <charseq START="1444" END="1450">gennaio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T7" VAL="2003">
+      <timex2_mention ID="adige20041007_id413887-T7-1">
+        <extent>
+          <charseq START="2016" END="2029">L' anno scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413887-T12" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041007_id413887-T12-1">
+        <extent>
+          <charseq START="391" END="397">attuali</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

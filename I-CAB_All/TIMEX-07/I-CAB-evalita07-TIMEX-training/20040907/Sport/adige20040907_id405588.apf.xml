@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405588.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405588">
+    <timex2 ID="adige20040907_id405588-T3" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405588-T3-1">
+        <extent>
+          <charseq START="2025" END="2027">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405588-T4" VAL="P2Y" MOD="APPROX" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405588-T4-1">
+        <extent>
+          <charseq START="2138" END="2151">quasi due anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405588-T7" VAL="PAST_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040907_id405588-T7-1">
+        <extent>
+          <charseq START="652" END="653">ex</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405588-T5" VAL="P2M" ANCHOR_VAL="2004-09" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405588-T5-1">
+        <extent>
+          <charseq START="2164" END="2169">2 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405588-T6" VAL="2004-09-06">
+      <timex2_mention ID="adige20040907_id405588-T6-1">
+        <extent>
+          <charseq START="2263" END="2266">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405588-T1" VAL="P33Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405588-T1-1">
+        <extent>
+          <charseq START="1237" END="1243">33 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405588-T9" VAL="2004-09-05">
+      <timex2_mention ID="adige20040907_id405588-T9-1">
+        <extent>
+          <charseq START="2669" END="2676">domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405588-T2" VAL="P12Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405588-T2-1">
+        <extent>
+          <charseq START="1727" END="1733">12 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

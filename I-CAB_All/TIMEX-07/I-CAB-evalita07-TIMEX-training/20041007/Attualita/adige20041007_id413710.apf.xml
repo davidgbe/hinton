@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413710.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413710">
+    <timex2 ID="adige20041007_id413710-T2" VAL="P4D" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413710-T2-1">
+        <extent>
+          <charseq START="838" END="844">quattro</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T3" VAL="P5D" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413710-T3-1">
+        <extent>
+          <charseq START="846" END="858">cinque giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T4" VAL="2004-04-12">
+      <timex2_mention ID="adige20041007_id413710-T4-1">
+        <extent>
+          <charseq START="1069" END="1080">il 12 aprile</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T5" VAL="P56D" ANCHOR_VAL="2004-04-12" ANCHOR_DIR="STARTING">
+      <timex2_mention ID="adige20041007_id413710-T5-1">
+        <extent>
+          <charseq START="1091" END="1099">56 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T6" VAL="2004-06-09">
+      <timex2_mention ID="adige20041007_id413710-T6-1">
+        <extent>
+          <charseq START="1159" END="1170">del 9 giugno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T7" VAL="P40Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413710-T7-1">
+        <extent>
+          <charseq START="1910" END="1923">il quarantenne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T8" VAL="2004-10-06">
+      <timex2_mention ID="adige20041007_id413710-T8-1">
+        <extent>
+          <charseq START="2017" END="2020">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T9" VAL="PXD">
+      <timex2_mention ID="adige20041007_id413710-T9-1">
+        <extent>
+          <charseq START="2214" END="2221">i giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T1" VAL="P3M" MOD="MORE_THAN" ANCHOR_VAL="2004-10" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413710-T1-1">
+        <extent>
+          <charseq START="219" END="232">oltre tre mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413710-T10" VAL="2004-WXX">
+      <timex2_mention ID="adige20041007_id413710-T10-1">
+        <extent>
+          <charseq START="2310" END="2333">sulla settimana decisiva</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

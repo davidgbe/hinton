@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414184.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414184">
+    <timex2 ID="adige20041008_id414184-T3" VAL="P3D" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414184-T3-1">
+        <extent>
+          <charseq START="323" END="332">tre giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T4" VAL="PXW">
+      <timex2_mention ID="adige20041008_id414184-T4-1">
+        <extent>
+          <charseq START="664" END="679">intere settimane</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T5" VAL="PXD" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414184-T5-1">
+        <extent>
+          <charseq START="901" END="917">nei giorni scorsi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T6" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414184-T6-1">
+        <extent>
+          <charseq START="1010" END="1013">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T7" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414184-T7-1">
+        <extent>
+          <charseq START="2389" END="2402">della giornata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T8" VAL="2004-10-XX" COMMENT="Non so se si riferisce al giorno 7 o al 6 o addirittura al 5: l'espressione e' troppo vaga, diversa dal dire 'l'altro ieri'.">
+      <timex2_mention ID="adige20041008_id414184-T8-1">
+        <extent>
+          <charseq START="2733" END="2746">L'altro giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T13" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414184-T13-1">
+        <extent>
+          <charseq START="2100" END="2101">ex</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T9" VAL="P6M">
+      <timex2_mention ID="adige20041008_id414184-T9-1">
+        <extent>
+          <charseq START="3108" END="3117">i sei mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T1" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414184-T1-1">
+        <extent>
+          <charseq START="12" END="25">Terza giornata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T10" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041008_id414184-T10-1">
+        <extent>
+          <charseq START="3132" END="3143">ciascun anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T2" VAL="2004-10-07TNI">
+      <timex2_mention ID="adige20041008_id414184-T2-1">
+        <extent>
+          <charseq START="133" END="143">nella notte</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T11" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041008_id414184-T11-1">
+        <extent>
+          <charseq START="2946" END="2957">ciascun anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T12" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414184-T12-1">
+        <extent>
+          <charseq START="556" END="566">attualmente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414184-T14" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414184-T14-1">
+        <extent>
+          <charseq START="2960" END="2963">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

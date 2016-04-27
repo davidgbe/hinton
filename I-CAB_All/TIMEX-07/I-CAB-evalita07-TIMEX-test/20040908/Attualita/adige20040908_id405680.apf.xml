@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405680.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405680">
+    <timex2 ID="adige20040908_id405680-T1" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405680-T1-1">
+        <extent>
+          <charseq START="61" END="68">Giornata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T2" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405680-T2-1">
+        <extent>
+          <charseq START="82" END="85">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T3" VAL="1945">
+      <timex2_mention ID="adige20040908_id405680-T3-1">
+        <extent>
+          <charseq START="709" END="716">nel 1945</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T4" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405680-T4-1">
+        <extent>
+          <charseq START="914" END="917">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T5" VAL="2004-09-07T08:53">
+      <timex2_mention ID="adige20040908_id405680-T5-1">
+        <extent>
+          <charseq START="1096" END="1104">alle 8,53</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T6" VAL="2004-09-07T13:53">
+      <timex2_mention ID="adige20040908_id405680-T6-1">
+        <extent>
+          <charseq START="1107" END="1123">le 13,53 italiane</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T7" VAL="P14M" ANCHOR_VAL="2004-09" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405680-T7-1">
+        <extent>
+          <charseq START="1661" END="1667">14 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T8" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405680-T8-1">
+        <extent>
+          <charseq START="1642" END="1645">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405680-T9" VAL="2004-WI">
+      <timex2_mention ID="adige20040908_id405680-T9-1">
+        <extent>
+          <charseq START="1741" END="1756">l'inverno scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413936.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413936">
+    <timex2 ID="adige20041007_id413936-T1" VAL="2004-W40">
+      <timex2_mention ID="adige20041007_id413936-T1-1">
+        <extent>
+          <charseq START="466" END="487">della settimana scorsa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413936-T2" VAL="TEV" SET="YES" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041007_id413936-T2-1">
+        <extent>
+          <charseq START="2079" END="2084">serate</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405932.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405932">
+    <timex2 ID="adige20040908_id405932-T1" VAL="XXXX-XX-XX">
+      <timex2_mention ID="adige20040908_id405932-T1-1">
+        <extent>
+          <charseq START="528" END="549">quei drammatici giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405932-T2" VAL="19">
+      <timex2_mention ID="adige20040908_id405932-T2-1">
+        <extent>
+          <charseq START="1110" END="1122">del Novecento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405932-T3" VAL="PTXH">
+      <timex2_mention ID="adige20040908_id405932-T3-1">
+        <extent>
+          <charseq START="1598" END="1612">nelle prime ore</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405932-T4" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405932-T4-1">
+        <extent>
+          <charseq START="1727" END="1729">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405932-T5" VAL="XXXXX-XX-XX">
+      <timex2_mention ID="adige20040908_id405932-T5-1">
+        <extent>
+          <charseq START="2393" END="2414">quei drammatici giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405932-T6">
+      <timex2_mention ID="adige20040908_id405932-T6-1">
+        <extent>
+          <charseq START="1753" END="1762">il momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

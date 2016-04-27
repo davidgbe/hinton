@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414189.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414189">
+    <timex2 ID="adige20041008_id414189-T1" VAL="2004-10-14">
+      <timex2_mention ID="adige20041008_id414189-T1-1">
+        <extent>
+          <charseq START="467" END="479">il 14 ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414189-T2" VAL="2004-10-06">
+      <timex2_mention ID="adige20041008_id414189-T2-1">
+        <extent>
+          <charseq START="522" END="537">mercoledì scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

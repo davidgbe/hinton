@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413945.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413945">
+    <timex2 ID="adige20041007_id413945-T5" VAL="2004-10-21">
+      <timex2_mention ID="adige20041007_id413945-T5-1">
+        <extent>
+          <charseq START="748" END="762">il giorno prima</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413945-T6" VAL="P1Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413945-T6-1">
+        <extent>
+          <charseq START="1089" END="1095">un anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413945-T7">
+      <timex2_mention ID="adige20041007_id413945-T7-1">
+        <extent>
+          <charseq START="670" END="686">il periodo giusto</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413945-T2" VAL="2004-10-22">
+      <timex2_mention ID="adige20041007_id413945-T2-1">
+        <extent>
+          <charseq START="451" END="456">dal 22</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413945-T1" VAL="P1Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413945-T1-1">
+        <extent>
+          <charseq START="120" END="132">il primo anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413945-T3" VAL="2004-10-24">
+      <timex2_mention ID="adige20041007_id413945-T3-1">
+        <extent>
+          <charseq START="458" END="470">al 24 ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413945-T4" VAL="2004-10-23">
+      <timex2_mention ID="adige20041007_id413945-T4-1">
+        <extent>
+          <charseq START="624" END="647">nella giornata di sabato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

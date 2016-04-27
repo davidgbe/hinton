@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405919.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405919">
+    <timex2 ID="adige20040908_id405919-T1" VAL="2004-09-10">
+      <timex2_mention ID="adige20040908_id405919-T1-1">
+        <extent>
+          <charseq START="81" END="87">venerdì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405919-T2" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405919-T2-1">
+        <extent>
+          <charseq START="884" END="887">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405919-T3" VAL="P2Y" SET="YES">
+      <timex2_mention ID="adige20040908_id405919-T3-1">
+        <extent>
+          <charseq START="1420" END="1432">ogni due anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405919-T4" VAL="1947">
+      <timex2_mention ID="adige20040908_id405919-T4-1">
+        <extent>
+          <charseq START="1434" END="1441">dal 1947</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405919-T5" VAL="2004-09-07TMO">
+      <timex2_mention ID="adige20040908_id405919-T5-1">
+        <extent>
+          <charseq START="1591" END="1605">della mattinata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405919-T6" VAL="2004-09-10">
+      <timex2_mention ID="adige20040908_id405919-T6-1">
+        <extent>
+          <charseq START="2424" END="2439">venerdì prossimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

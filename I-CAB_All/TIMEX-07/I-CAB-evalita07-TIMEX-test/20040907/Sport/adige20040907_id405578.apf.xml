@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405578.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405578">
+    <timex2 ID="adige20040907_id405578-T1" VAL="2004-09-07T21:00">
+      <timex2_mention ID="adige20040907_id405578-T1-1">
+        <extent>
+          <charseq START="12" END="17">ore 21</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

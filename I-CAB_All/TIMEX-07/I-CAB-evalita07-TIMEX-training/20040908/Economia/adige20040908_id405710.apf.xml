@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405710.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405710">
+    <timex2 ID="adige20040908_id405710-T2" VAL="FUTURE_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20040908_id405710-T2-1">
+        <extent>
+          <charseq START="84" END="93">del futuro</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405710-T1" VAL="FUTURE_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20040908_id405710-T1-1">
+        <extent>
+          <charseq START="54" END="67">qualche giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405710-T3" VAL="2004-06">
+      <timex2_mention ID="adige20040908_id405710-T3-1">
+        <extent>
+          <charseq START="297" END="313">nel giugno scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405710-T4" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405710-T4-1">
+        <extent>
+          <charseq START="340" END="343">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405710-T5" VAL="2004-09-06TEV">
+      <timex2_mention ID="adige20040908_id405710-T5-1">
+        <extent>
+          <charseq START="555" END="565">lunedì sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

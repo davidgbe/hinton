@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405582.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405582">
+    <timex2 ID="adige20040907_id405582-T1" VAL="2004-09-04">
+      <timex2_mention ID="adige20040907_id405582-T1-1">
+        <extent>
+          <charseq START="190" END="195">sabato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405582-T4" VAL="PAST_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040907_id405582-T4-1">
+        <extent>
+          <charseq START="956" END="962">recente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405582-T2" VAL="2004-09-05">
+      <timex2_mention ID="adige20040907_id405582-T2-1">
+        <extent>
+          <charseq START="199" END="206">domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405582-T3" VAL="PT2.5H">
+      <timex2_mention ID="adige20040907_id405582-T3-1">
+        <extent>
+          <charseq START="379" END="393">due ore e mezzo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

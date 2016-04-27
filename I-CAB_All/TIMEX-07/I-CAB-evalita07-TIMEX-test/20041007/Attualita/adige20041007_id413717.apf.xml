@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413717.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413717">
+    <timex2 ID="adige20041007_id413717-T1" VAL="XXXX-XX-XX" SET="YES">
+      <timex2_mention ID="adige20041007_id413717-T1-1">
+        <extent>
+          <charseq START="595" END="605">ogni giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413717-T2" VAL="PXY" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413717-T2-1">
+        <extent>
+          <charseq START="610" END="621">diversi anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413717-T3" VAL="PAST_REF" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413717-T3-1">
+        <extent>
+          <charseq START="768" END="782">diversi anni fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413717-T4" VAL="2004-10-06TMO">
+      <timex2_mention ID="adige20041007_id413717-T4-1">
+        <extent>
+          <charseq START="788" END="799">ieri mattina</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413717-T5" VAL="P25Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413717-T5-1">
+        <extent>
+          <charseq START="883" END="889">25 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413717-T6" VAL="P65Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING" COMMENT="Inserisco la data di morte nell'ANCHOR_VAL.">
+      <timex2_mention ID="adige20041007_id413717-T6-1">
+        <extent>
+          <charseq START="1150" END="1156">65 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413717-T7" VAL="XXXX-WXX" SET="YES">
+      <timex2_mention ID="adige20041007_id413717-T7-1">
+        <extent>
+          <charseq START="1892" END="1902">settimanale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413717-T8" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041007_id413717-T8-1">
+        <extent>
+          <charseq START="422" END="434">questi giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

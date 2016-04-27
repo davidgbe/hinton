@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405925.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405925">
+    <timex2 ID="adige20040908_id405925-T1" VAL="P58Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405925-T1-1">
+        <extent>
+          <charseq START="152" END="157">58enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405925-T2" VAL="2004-09-06">
+      <timex2_mention ID="adige20040908_id405925-T2-1">
+        <extent>
+          <charseq START="221" END="226">lunedì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405925-T3" VAL="2004-09-06TEV">
+      <timex2_mention ID="adige20040908_id405925-T3-1">
+        <extent>
+          <charseq START="369" END="379">lunedì sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405925-T4" VAL="P40D">
+      <timex2_mention ID="adige20040908_id405925-T4-1">
+        <extent>
+          <charseq START="622" END="630">40 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405925-T5" VAL="P29Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405925-T5-1">
+        <extent>
+          <charseq START="774" END="779">29enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

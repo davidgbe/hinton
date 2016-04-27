@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413893.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413893">
+    <timex2 ID="adige20041007_id413893-T5" VAL="P60D">
+      <timex2_mention ID="adige20041007_id413893-T5-1">
+        <extent>
+          <charseq START="1001" END="1012">ai 60 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413893-T1" VAL="P6M">
+      <timex2_mention ID="adige20041007_id413893-T1-1">
+        <extent>
+          <charseq START="317" END="322">6 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413893-T2" VAL="2004-09-16">
+      <timex2_mention ID="adige20041007_id413893-T2-1">
+        <extent>
+          <charseq START="718" END="732">il 16 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413893-T3" VAL="P1Y">
+      <timex2_mention ID="adige20041007_id413893-T3-1">
+        <extent>
+          <charseq START="891" END="897">un anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413893-T6" VAL="PAST_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413893-T6-1">
+        <extent>
+          <charseq START="343" END="349">recenti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413893-T4" VAL="P30D">
+      <timex2_mention ID="adige20041007_id413893-T4-1">
+        <extent>
+          <charseq START="994" END="999">dai 30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405595.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405595">
+    <timex2 ID="adige20040907_id405595-T5" VAL="P2Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405595-T5-1">
+        <extent>
+          <charseq START="681" END="699">dell'ultimo biennio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405595-T1" VAL="2004-09-06">
+      <timex2_mention ID="adige20040907_id405595-T1-1">
+        <extent>
+          <charseq START="200" END="213">della giornata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405595-T2" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040907_id405595-T2-1">
+        <extent>
+          <charseq START="545" END="558">l'anno passato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405595-T6" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040907_id405595-T6-1">
+        <extent>
+          <charseq START="892" END="901">stagionale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405595-T3" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405595-T3-1">
+        <extent>
+          <charseq START="725" END="730">adesso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405595-T4" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040907_id405595-T4-1">
+        <extent>
+          <charseq START="1248" END="1263">dell'anno scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

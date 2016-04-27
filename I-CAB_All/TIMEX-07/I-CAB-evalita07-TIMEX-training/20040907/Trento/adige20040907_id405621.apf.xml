@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405621.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405621">
+    <timex2 ID="adige20040907_id405621-T5" VAL="PTXH" ANCHOR_VAL="TAF" ANCHOR_DIR="WITHIN">
+      <timex2_mention ID="adige20040907_id405621-T5-1">
+        <extent>
+          <charseq START="3676" END="3695">un intero pomeriggio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405621-T6" VAL="P1Y" MOD="APPROX">
+      <timex2_mention ID="adige20040907_id405621-T6-1">
+        <extent>
+          <charseq START="3890" END="3907">più o meno un anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405621-T1" VAL="P20D" MOD="APPROX" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="STARTING">
+      <timex2_mention ID="adige20040907_id405621-T1-1">
+        <extent>
+          <charseq START="429" END="452">una ventina di giorni fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405621-T2" VAL="2004-05-XXTEV" MOD="END">
+      <timex2_mention ID="adige20040907_id405621-T2-1">
+        <extent>
+          <charseq START="697" END="722">Quella sera di fine maggio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405621-T7">
+      <timex2_mention ID="adige20040907_id405621-T7-1">
+        <extent>
+          <charseq START="3824" END="3828">tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405621-T4" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405621-T4-1">
+        <extent>
+          <charseq START="1564" END="1566">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

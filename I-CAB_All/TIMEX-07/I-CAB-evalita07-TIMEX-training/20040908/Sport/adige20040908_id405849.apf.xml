@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405849.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405849">
+    <timex2 ID="adige20040908_id405849-T14" VAL="PT45S">
+      <timex2_mention ID="adige20040908_id405849-T14-1">
+        <extent>
+          <charseq START="724" END="728">45"33</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T15" VAL="PT45S">
+      <timex2_mention ID="adige20040908_id405849-T15-1">
+        <extent>
+          <charseq START="748" END="752">45"98</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T24" VAL="PT1M46S">
+      <timex2_mention ID="adige20040908_id405849-T24-1">
+        <extent>
+          <charseq START="1146" END="1152">1'46"07</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T16" VAL="PT1M44S">
+      <timex2_mention ID="adige20040908_id405849-T16-1">
+        <extent>
+          <charseq START="833" END="839">1'44"42</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T25" VAL="2002">
+      <timex2_mention ID="adige20040908_id405849-T25-1">
+        <extent>
+          <charseq START="1154" END="1161">nel 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T17" VAL="PT1M43S">
+      <timex2_mention ID="adige20040908_id405849-T17-1">
+        <extent>
+          <charseq START="853" END="859">1'43"74</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T1" VAL="2004">
+      <timex2_mention ID="adige20040908_id405849-T1-1">
+        <extent>
+          <charseq START="224" END="233">Quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T26" VAL="P18Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405849-T26-1">
+        <extent>
+          <charseq START="1176" END="1182">18 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T18" VAL="2000">
+      <timex2_mention ID="adige20040908_id405849-T18-1">
+        <extent>
+          <charseq START="861" END="868">nel 2000</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T2" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T2-1">
+        <extent>
+          <charseq START="305" END="309">10"32</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T27" VAL="PT1M51S">
+      <timex2_mention ID="adige20040908_id405849-T27-1">
+        <extent>
+          <charseq START="1185" END="1191">1'51"18</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T19" VAL="PT1M43S">
+      <timex2_mention ID="adige20040908_id405849-T19-1">
+        <extent>
+          <charseq START="932" END="937">1'43"7</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T3" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T3-1">
+        <extent>
+          <charseq START="329" END="333">10"13</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T44" VAL="PT2M">
+      <timex2_mention ID="adige20040908_id405849-T44-1">
+        <extent>
+          <charseq START="2645" END="2654">i 2 minuti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T28" VAL="PT13M35S">
+      <timex2_mention ID="adige20040908_id405849-T28-1">
+        <extent>
+          <charseq START="1246" END="1253">13'35"64</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T20" VAL="1973">
+      <timex2_mention ID="adige20040908_id405849-T20-1">
+        <extent>
+          <charseq START="939" END="945">nel '73</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T45" VAL="PT4M04S">
+      <timex2_mention ID="adige20040908_id405849-T45-1">
+        <extent>
+          <charseq START="2698" END="2704">4'04"78</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T29" VAL="PT13M05S">
+      <timex2_mention ID="adige20040908_id405849-T29-1">
+        <extent>
+          <charseq START="1295" END="1302">13'05"57</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T21" VAL="PT1M44S">
+      <timex2_mention ID="adige20040908_id405849-T21-1">
+        <extent>
+          <charseq START="972" END="978">1'44"37</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T46" VAL="PT4M05S">
+      <timex2_mention ID="adige20040908_id405849-T46-1">
+        <extent>
+          <charseq START="2727" END="2733">4'05"32</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T30" VAL="PT13M11S">
+      <timex2_mention ID="adige20040908_id405849-T30-1">
+        <extent>
+          <charseq START="1332" END="1339">13'11"32</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T22" VAL="PT1M45S">
+      <timex2_mention ID="adige20040908_id405849-T22-1">
+        <extent>
+          <charseq START="1025" END="1031">1'45"13</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T47" VAL="PT4M12S">
+      <timex2_mention ID="adige20040908_id405849-T47-1">
+        <extent>
+          <charseq START="2776" END="2782">4'12"80</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T31" VAL="PT13M11S">
+      <timex2_mention ID="adige20040908_id405849-T31-1">
+        <extent>
+          <charseq START="1356" END="1363">13'11"83</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T23" VAL="PT1M45S">
+      <timex2_mention ID="adige20040908_id405849-T23-1">
+        <extent>
+          <charseq START="1092" END="1098">1'45"17</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T48" VAL="PT4M23S">
+      <timex2_mention ID="adige20040908_id405849-T48-1">
+        <extent>
+          <charseq START="2817" END="2823">4'23"84</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T32" VAL="PT13M21S">
+      <timex2_mention ID="adige20040908_id405849-T32-1">
+        <extent>
+          <charseq START="1382" END="1389">13'21"45</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T49" VAL="PT4M16S">
+      <timex2_mention ID="adige20040908_id405849-T49-1">
+        <extent>
+          <charseq START="2858" END="2863">4'16"6</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T33" VAL="PT12M39S">
+      <timex2_mention ID="adige20040908_id405849-T33-1">
+        <extent>
+          <charseq START="1395" END="1402">12'39"74</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T50" VAL="PT4M20S">
+      <timex2_mention ID="adige20040908_id405849-T50-1">
+        <extent>
+          <charseq START="2896" END="2902">4'20"65</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T51" VAL="PT53S">
+      <timex2_mention ID="adige20040908_id405849-T51-1">
+        <extent>
+          <charseq START="2943" END="2947">53"72</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T61" VAL="2004">
+      <timex2_mention ID="adige20040908_id405849-T61-1">
+        <extent>
+          <charseq START="2167" END="2174">nel 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T52" VAL="PT53S">
+      <timex2_mention ID="adige20040908_id405849-T52-1">
+        <extent>
+          <charseq START="2990" END="2994">53"36</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T53" VAL="2003">
+      <timex2_mention ID="adige20040908_id405849-T53-1">
+        <extent>
+          <charseq START="3020" END="3023">2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T60" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040908_id405849-T60-1">
+        <extent>
+          <charseq START="841" END="850">stagionale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T4" VAL="1998">
+      <timex2_mention ID="adige20040908_id405849-T4-1">
+        <extent>
+          <charseq START="336" END="342">del '98</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T5" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T5-1">
+        <extent>
+          <charseq START="392" END="396">10"11</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T6" VAL="2002">
+      <timex2_mention ID="adige20040908_id405849-T6-1">
+        <extent>
+          <charseq START="402" END="409">nel 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T7" VAL="PT9S">
+      <timex2_mention ID="adige20040908_id405849-T7-1">
+        <extent>
+          <charseq START="423" END="426">9"95</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T8" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T8-1">
+        <extent>
+          <charseq START="456" END="460">10"20</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T9" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T9-1">
+        <extent>
+          <charseq START="486" END="490">10"15</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T34" VAL="1997">
+      <timex2_mention ID="adige20040908_id405849-T34-1">
+        <extent>
+          <charseq START="1404" END="1410">nel '97</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T10" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T10-1">
+        <extent>
+          <charseq START="531" END="535">10"15</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T35" VAL="PT12M39S">
+      <timex2_mention ID="adige20040908_id405849-T35-1">
+        <extent>
+          <charseq START="1438" END="1445">12'39"36</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T11" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T11-1">
+        <extent>
+          <charseq START="573" END="577">10"32</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T36" VAL="PT48M23S">
+      <timex2_mention ID="adige20040908_id405849-T36-1">
+        <extent>
+          <charseq START="1518" END="1522">48"23</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T12" VAL="PT10S">
+      <timex2_mention ID="adige20040908_id405849-T12-1">
+        <extent>
+          <charseq START="596" END="600">10"28</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T37" VAL="PT50S">
+      <timex2_mention ID="adige20040908_id405849-T37-1">
+        <extent>
+          <charseq START="1590" END="1594">50"68</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T13" VAL="PT44S">
+      <timex2_mention ID="adige20040908_id405849-T13-1">
+        <extent>
+          <charseq START="682" END="686">44"60</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T54" VAL="PT53S">
+      <timex2_mention ID="adige20040908_id405849-T54-1">
+        <extent>
+          <charseq START="3048" END="3052">53"33</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T38" VAL="PT19M43S">
+      <timex2_mention ID="adige20040908_id405849-T38-1">
+        <extent>
+          <charseq START="1725" END="1732">19'43"24</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T55" VAL="PT55S">
+      <timex2_mention ID="adige20040908_id405849-T55-1">
+        <extent>
+          <charseq START="3091" END="3095">55"52</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T39" VAL="2003">
+      <timex2_mention ID="adige20040908_id405849-T39-1">
+        <extent>
+          <charseq START="1735" END="1738">2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T56" VAL="1999">
+      <timex2_mention ID="adige20040908_id405849-T56-1">
+        <extent>
+          <charseq START="3118" END="3124">dal '99</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T40" VAL="PT22S">
+      <timex2_mention ID="adige20040908_id405849-T40-1">
+        <extent>
+          <charseq START="2375" END="2379">22"33</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T57" VAL="PT55S">
+      <timex2_mention ID="adige20040908_id405849-T57-1">
+        <extent>
+          <charseq START="3130" END="3134">55"10</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T41" VAL="PT24S">
+      <timex2_mention ID="adige20040908_id405849-T41-1">
+        <extent>
+          <charseq START="2468" END="2472">24"12</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T58" VAL="P21Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405849-T58-1">
+        <extent>
+          <charseq START="3691" END="3699">la 21enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T42" VAL="PT1M55S">
+      <timex2_mention ID="adige20040908_id405849-T42-1">
+        <extent>
+          <charseq START="2525" END="2531">1'55"19</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T43" VAL="PT2M01S">
+      <timex2_mention ID="adige20040908_id405849-T43-1">
+        <extent>
+          <charseq START="2627" END="2633">2'01"04</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405849-T59" VAL="TNI">
+      <timex2_mention ID="adige20040908_id405849-T59-1">
+        <extent>
+          <charseq START="134" END="141">la notte</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414012.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414012">
+    <timex2 ID="adige20041008_id414012-T1" VAL="P5000Y">
+      <timex2_mention ID="adige20041008_id414012-T1-1">
+        <extent>
+          <charseq START="196" END="204">5000 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414012-T2" VAL="P30Y">
+      <timex2_mention ID="adige20041008_id414012-T2-1">
+        <extent>
+          <charseq START="1437" END="1448">i trent'anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414012-T3" VAL="P40Y" MOD="MORE_THAN">
+      <timex2_mention ID="adige20041008_id414012-T3-1">
+        <extent>
+          <charseq START="1480" END="1497">un età di oltre 40</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414012-T4" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414012-T4-1">
+        <extent>
+          <charseq START="885" END="895">più recenti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414012-T5">
+      <timex2_mention ID="adige20041008_id414012-T5-1">
+        <extent>
+          <charseq START="1249" END="1259">nel momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414012-T6" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414012-T6-1">
+        <extent>
+          <charseq START="1768" END="1790">un passato lontanissimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414012-T7" VAL="FUTURE_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20041008_id414012-T7-1">
+        <extent>
+          <charseq START="1810" END="1815">future</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

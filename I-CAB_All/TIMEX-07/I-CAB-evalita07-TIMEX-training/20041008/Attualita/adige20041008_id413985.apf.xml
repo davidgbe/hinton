@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id413985.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id413985">
+    <timex2 ID="adige20041008_id413985-T1" VAL="2004-10-08">
+      <timex2_mention ID="adige20041008_id413985-T1-1">
+        <extent>
+          <charseq START="965" END="968">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413985-T5" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id413985-T5-1">
+        <extent>
+          <charseq START="507" END="509">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413985-T4" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id413985-T4-1">
+        <extent>
+          <charseq START="2272" END="2273">ex</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413985-T2" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id413985-T2-1">
+        <extent>
+          <charseq START="1545" END="1548">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id413985-T3" VAL="2004-03">
+      <timex2_mention ID="adige20041008_id413985-T3-1">
+        <extent>
+          <charseq START="2317" END="2331">lo scorso marzo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

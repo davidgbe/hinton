@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405414.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405414">
+    <timex2 ID="adige20040907_id405414-T2" VAL="2004-09-07T19:00">
+      <timex2_mention ID="adige20040907_id405414-T2-1">
+        <extent>
+          <charseq START="136" END="146">alle ore 19</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T11" VAL="PXY" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040907_id405414-T11-1">
+        <extent>
+          <charseq START="1653" END="1661">vari anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T3" VAL="2001">
+      <timex2_mention ID="adige20040907_id405414-T3-1">
+        <extent>
+          <charseq START="406" END="413">nel 2001</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T4" VAL="TEV">
+      <timex2_mention ID="adige20040907_id405414-T4-1">
+        <extent>
+          <charseq START="664" END="673">una serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T5" VAL="XXXX-WXX" SET="YES">
+      <timex2_mention ID="adige20040907_id405414-T5-1">
+        <extent>
+          <charseq START="857" END="877">due volte a settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T6" VAL="2004">
+      <timex2_mention ID="adige20040907_id405414-T6-1">
+        <extent>
+          <charseq START="1036" END="1045">quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T7" VAL="XXXX-WXX-2" SET="YES">
+      <timex2_mention ID="adige20040907_id405414-T7-1">
+        <extent>
+          <charseq START="1099" END="1119">nel giorno di martedì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T8" VAL="XXXX-WXX-7" SET="YES">
+      <timex2_mention ID="adige20040907_id405414-T8-1">
+        <extent>
+          <charseq START="1286" END="1297">una domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T12" VAL="2004-SU">
+      <timex2_mention ID="adige20040907_id405414-T12-1">
+        <extent>
+          <charseq START="16" END="21">estiva</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T9" VAL="XXXX-XX" SET="YES">
+      <timex2_mention ID="adige20040907_id405414-T9-1">
+        <extent>
+          <charseq START="1299" END="1305">al mese</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T10" VAL="2004-09-07TEV">
+      <timex2_mention ID="adige20040907_id405414-T10-1">
+        <extent>
+          <charseq START="1482" END="1488">stasera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T13" VAL="XXXX-WXX-7TEV">
+      <timex2_mention ID="adige20040907_id405414-T13-1">
+        <extent>
+          <charseq START="1307" END="1315">la serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405414-T1" VAL="2004-09-07TEV">
+      <timex2_mention ID="adige20040907_id405414-T1-1">
+        <extent>
+          <charseq START="128" END="134">stasera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413728.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413728">
+    <timex2 ID="adige20041007_id413728-T3" VAL="2004-10-07">
+      <timex2_mention ID="adige20041007_id413728-T3-1">
+        <extent>
+          <charseq START="4" END="7">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413728-T1" VAL="PT92M">
+      <timex2_mention ID="adige20041007_id413728-T1-1">
+        <extent>
+          <charseq START="123" END="128">92 min</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413728-T2" VAL="XXXX-09-11">
+      <timex2_mention ID="adige20041007_id413728-T2-1">
+        <extent>
+          <charseq START="736" END="752">dell'11 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

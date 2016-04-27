@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405436.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405436">
+    <timex2 ID="adige20040907_id405436-T3" VAL="2004-H1">
+      <timex2_mention ID="adige20040907_id405436-T3-1">
+        <extent>
+          <charseq START="1152" END="1179">sui primi sei mesi dell'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405436-T4" VAL="2004-09-06">
+      <timex2_mention ID="adige20040907_id405436-T4-1">
+        <extent>
+          <charseq START="576" END="585">nel giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

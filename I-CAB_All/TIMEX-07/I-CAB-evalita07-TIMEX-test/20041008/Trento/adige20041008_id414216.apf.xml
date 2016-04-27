@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414216.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414216">
+    <timex2 ID="adige20041008_id414216-T1" VAL="P6Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414216-T1-1">
+        <extent>
+          <charseq START="153" END="160">Sei anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T2" VAL="P2M20D">
+      <timex2_mention ID="adige20041008_id414216-T2-1">
+        <extent>
+          <charseq START="180" END="197">2 mesi e 20 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T3" VAL="P6Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414216-T3-1">
+        <extent>
+          <charseq START="224" END="231">Sei anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T4" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414216-T4-1">
+        <extent>
+          <charseq START="427" END="430">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T5" VAL="P2M20D">
+      <timex2_mention ID="adige20041008_id414216-T5-1">
+        <extent>
+          <charseq START="530" END="547">2 mesi e 20 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T6" VAL="P45Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414216-T6-1">
+        <extent>
+          <charseq START="597" END="603">45 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T7" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414216-T7-1">
+        <extent>
+          <charseq START="867" END="870">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T8" VAL="2004-WI">
+      <timex2_mention ID="adige20041008_id414216-T8-1">
+        <extent>
+          <charseq START="1234" END="1249">l'inverno scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T9" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414216-T9-1">
+        <extent>
+          <charseq START="1374" END="1377">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T10" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414216-T10-1">
+        <extent>
+          <charseq START="1720" END="1723">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T11" VAL="P35Y" ANCHOR_VAL="XXXX" ANCHOR_DIR="ENDING" COMMENT="Non so la data di morte del soggetto.">
+      <timex2_mention ID="adige20041008_id414216-T11-1">
+        <extent>
+          <charseq START="2972" END="2978">35 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T12" VAL="PT10M" MOD="APPROX">
+      <timex2_mention ID="adige20041008_id414216-T12-1">
+        <extent>
+          <charseq START="3130" END="3149">una decina di minuti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414216-T13">
+      <timex2_mention ID="adige20041008_id414216-T13-1">
+        <extent>
+          <charseq START="2493" END="2509">qualsiasi momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

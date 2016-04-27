@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414185.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414185">
+    <timex2 ID="adige20041008_id414185-T10">
+      <timex2_mention ID="adige20041008_id414185-T10-1">
+        <extent>
+          <charseq START="267" END="283">il momento giusto</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T9" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414185-T9-1">
+        <extent>
+          <charseq START="1405" END="1409">tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T5" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414185-T5-1">
+        <extent>
+          <charseq START="1065" END="1071">Per ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T6" VAL="P4D">
+      <timex2_mention ID="adige20041008_id414185-T6-1">
+        <extent>
+          <charseq START="1091" END="1104">quattro giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T7" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414185-T7-1">
+        <extent>
+          <charseq START="1228" END="1231">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T12">
+      <timex2_mention ID="adige20041008_id414185-T12-1">
+        <extent>
+          <charseq START="1426" END="1442">il momento scelto</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T11">
+      <timex2_mention ID="adige20041008_id414185-T11-1">
+        <extent>
+          <charseq START="165" END="181">un momento felice</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T8" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414185-T8-1">
+        <extent>
+          <charseq START="1267" END="1283">tutta la giornata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T1" VAL="2004-10-08">
+      <timex2_mention ID="adige20041008_id414185-T1-1">
+        <extent>
+          <charseq START="122" END="134">quarto giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T2" VAL="2004-09-08">
+      <timex2_mention ID="adige20041008_id414185-T2-1">
+        <extent>
+          <charseq START="389" END="392">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T3" VAL="2004-10-08">
+      <timex2_mention ID="adige20041008_id414185-T3-1">
+        <extent>
+          <charseq START="403" END="418">il quarto giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414185-T4" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414185-T4-1">
+        <extent>
+          <charseq START="793" END="796">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

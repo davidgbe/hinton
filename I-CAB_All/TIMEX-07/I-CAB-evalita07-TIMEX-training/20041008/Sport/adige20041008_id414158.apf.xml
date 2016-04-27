@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414158.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414158">
+    <timex2 ID="adige20041008_id414158-T4" VAL="2005">
+      <timex2_mention ID="adige20041008_id414158-T4-1">
+        <extent>
+          <charseq START="1029" END="1043">l'anno prossimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414158-T5" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414158-T5-1">
+        <extent>
+          <charseq START="1977" END="1982">Adesso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414158-T6" VAL="2005-FA">
+      <timex2_mention ID="adige20041008_id414158-T6-1">
+        <extent>
+          <charseq START="2365" END="2381">nell'autunno 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414158-T7" VAL="P3D">
+      <timex2_mention ID="adige20041008_id414158-T7-1">
+        <extent>
+          <charseq START="2456" END="2465">3 giornate</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414158-T8" VAL="2004-10-08">
+      <timex2_mention ID="adige20041008_id414158-T8-1">
+        <extent>
+          <charseq START="2468" END="2471">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414158-T1" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414158-T1-1">
+        <extent>
+          <charseq START="368" END="371">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414158-T2" VAL="2007">
+      <timex2_mention ID="adige20041008_id414158-T2-1">
+        <extent>
+          <charseq START="621" END="628">del 2007</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414158-T3" VAL="PT1M40S">
+      <timex2_mention ID="adige20041008_id414158-T3-1">
+        <extent>
+          <charseq START="956" END="960">1'40"</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

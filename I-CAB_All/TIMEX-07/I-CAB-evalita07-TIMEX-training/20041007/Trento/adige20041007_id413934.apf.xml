@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413934.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413934">
+    <timex2 ID="adige20041007_id413934-T3" VAL="PAST_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413934-T3-1">
+        <extent>
+          <charseq START="1347" END="1355">una volta</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413934-T1" VAL="PAST_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041007_id413934-T1-1">
+        <extent>
+          <charseq START="533" END="544">quel momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413934-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041007_id413934-T2-1">
+        <extent>
+          <charseq START="577" END="590">questo momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405880.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405880">
+    <timex2 ID="adige20040908_id405880-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405880-T2-1">
+        <extent>
+          <charseq START="2485" END="2487">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405880-T3" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405880-T3-1">
+        <extent>
+          <charseq START="2542" END="2545">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405880-T1" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405880-T1-1">
+        <extent>
+          <charseq START="2216" END="2219">OGGI</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

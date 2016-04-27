@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405878.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405878">
+    <timex2 ID="adige20040908_id405878-T21" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405878-T21-1">
+        <extent>
+          <charseq START="3108" END="3110">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T8" VAL="2004-09-04">
+      <timex2_mention ID="adige20040908_id405878-T8-1">
+        <extent>
+          <charseq START="2949" END="2971">sabato 4 settembre 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T1" VAL="P1WE" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040908_id405878-T1-1">
+        <extent>
+          <charseq START="224" END="252">Solito intenso fine settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T9" VAL="2004-09-04">
+      <timex2_mention ID="adige20040908_id405878-T9-1">
+        <extent>
+          <charseq START="3009" END="3026">sabato 4 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T18" VAL="2004-09-12">
+      <timex2_mention ID="adige20040908_id405878-T18-1">
+        <extent>
+          <charseq START="5781" END="5785">12/09</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T2" VAL="2004-09-04">
+      <timex2_mention ID="adige20040908_id405878-T2-1">
+        <extent>
+          <charseq START="416" END="423">sabato 4</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T10" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405878-T10-1">
+        <extent>
+          <charseq START="4355" END="4379">domenica 5 settembre 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T19" VAL="2004-09-12">
+      <timex2_mention ID="adige20040908_id405878-T19-1">
+        <extent>
+          <charseq START="5819" END="5823">12/09</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T3" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405878-T3-1">
+        <extent>
+          <charseq START="427" END="451">domenica 5 settembre 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T11" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405878-T11-1">
+        <extent>
+          <charseq START="4485" END="4504">domenica 5 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T4" VAL="2004">
+      <timex2_mention ID="adige20040908_id405878-T4-1">
+        <extent>
+          <charseq START="603" END="606">2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T12" VAL="2005">
+      <timex2_mention ID="adige20040908_id405878-T12-1">
+        <extent>
+          <charseq START="4907" END="4914">nel 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T5" VAL="2004-09-04">
+      <timex2_mention ID="adige20040908_id405878-T5-1">
+        <extent>
+          <charseq START="2277" END="2294">SABATO 4 SETTEMBRE</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T13" VAL="2005-09-04">
+      <timex2_mention ID="adige20040908_id405878-T13-1">
+        <extent>
+          <charseq START="4964" END="4993">la prima domenica di settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T6" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405878-T6-1">
+        <extent>
+          <charseq START="2449" END="2468">DOMENICA 5 SETTEMBRE</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T14" VAL="2004-09-12">
+      <timex2_mention ID="adige20040908_id405878-T14-1">
+        <extent>
+          <charseq START="5587" END="5591">12-09</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T20" COMMENT="NO calendario gregoriano">
+      <timex2_mention ID="adige20040908_id405878-T20-1">
+        <extent>
+          <charseq START="1396" END="1406">2ª GIORNATA</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T7" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405878-T7-1">
+        <extent>
+          <charseq START="2603" END="2627">Domenica 5 Settembre 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T15" VAL="2004-09-13">
+      <timex2_mention ID="adige20040908_id405878-T15-1">
+        <extent>
+          <charseq START="5645" END="5649">13/09</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T16" VAL="2004-09-16">
+      <timex2_mention ID="adige20040908_id405878-T16-1">
+        <extent>
+          <charseq START="5681" END="5685">16/09</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405878-T17" VAL="2004-09-12">
+      <timex2_mention ID="adige20040908_id405878-T17-1">
+        <extent>
+          <charseq START="5714" END="5718">12/09</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

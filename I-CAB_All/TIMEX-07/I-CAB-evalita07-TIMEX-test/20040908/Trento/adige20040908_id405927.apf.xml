@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405927.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405927">
+    <timex2 ID="adige20040908_id405927-T1" VAL="2004-09-07" COMMENT="Piu' avanti nell'articolo veniamo a sapere che l'incidente e' avvenuto il giorno 7.">
+      <timex2_mention ID="adige20040908_id405927-T1-1">
+        <extent>
+          <charseq START="119" END="132">L'altro giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405927-T2" VAL="P2Y" MOD="APPROX" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040908_id405927-T2-1">
+        <extent>
+          <charseq START="885" END="898">un paio d'anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405927-T3" VAL="1986">
+      <timex2_mention ID="adige20040908_id405927-T3-1">
+        <extent>
+          <charseq START="1927" END="1934">del 1986</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405927-T4" VAL="1994">
+      <timex2_mention ID="adige20040908_id405927-T4-1">
+        <extent>
+          <charseq START="2087" END="2093">il 1994</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405927-T5" VAL="PAST_REF" ANCHOR_VAL="2004" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040908_id405927-T5-1">
+        <extent>
+          <charseq START="2195" END="2204">tanti anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405927-T6" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405927-T6-1">
+        <extent>
+          <charseq START="2473" END="2476">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

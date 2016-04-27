@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405926.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405926">
+    <timex2 ID="adige20040908_id405926-T1" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405926-T1-1">
+        <extent>
+          <charseq START="13" END="20">domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T2" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405926-T2-1">
+        <extent>
+          <charseq START="480" END="494">domenica scorsa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T3" VAL="2004-09-05">
+      <timex2_mention ID="adige20040908_id405926-T3-1">
+        <extent>
+          <charseq START="497" END="508">primo giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T4" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405926-T4-1">
+        <extent>
+          <charseq START="812" END="815">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T5" VAL="PXM" ANCHOR_VAL="2004-09" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040908_id405926-T5-1">
+        <extent>
+          <charseq START="1229" END="1232">mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T6" VAL="2004-05" MOD="APPROX">
+      <timex2_mention ID="adige20040908_id405926-T6-1">
+        <extent>
+          <charseq START="2558" END="2569">verso maggio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T7" VAL="2004-06">
+      <timex2_mention ID="adige20040908_id405926-T7-1">
+        <extent>
+          <charseq START="2573" END="2578">giugno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T8" VAL="2004-05-06">
+      <timex2_mention ID="adige20040908_id405926-T8-1">
+        <extent>
+          <charseq START="2838" END="2855">il giorno 6 maggio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T9" VAL="PXD">
+      <timex2_mention ID="adige20040908_id405926-T9-1">
+        <extent>
+          <charseq START="3798" END="3809">pochi giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T10" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405926-T10-1">
+        <extent>
+          <charseq START="434" END="436">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T11" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405926-T11-1">
+        <extent>
+          <charseq START="3477" END="3479">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T12" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405926-T12-1">
+        <extent>
+          <charseq START="172" END="174">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405926-T13" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405926-T13-1">
+        <extent>
+          <charseq START="3823" END="3825">Ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

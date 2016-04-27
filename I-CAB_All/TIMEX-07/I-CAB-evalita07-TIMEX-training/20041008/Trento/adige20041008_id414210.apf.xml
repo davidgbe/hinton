@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414210.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414210">
+    <timex2 ID="adige20041008_id414210-T1" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414210-T1-1">
+        <extent>
+          <charseq START="19" END="22">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414210-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414210-T2-1">
+        <extent>
+          <charseq START="553" END="555">Ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414210-T3" VAL="2004-W41">
+      <timex2_mention ID="adige20041008_id414210-T3-1">
+        <extent>
+          <charseq START="837" END="860">nella settimana mondiale</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414210-T5" VAL="PT2H" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414210-T5-1">
+        <extent>
+          <charseq START="1253" END="1262">le due ore</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414210-T4" VAL="2003">
+      <timex2_mention ID="adige20041008_id414210-T4-1">
+        <extent>
+          <charseq START="1110" END="1117">nel 2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414210-T6" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414210-T6-1">
+        <extent>
+          <charseq START="1279" END="1289">Attualmente</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414210-T7" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414210-T7-1">
+        <extent>
+          <charseq START="1641" END="1644">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

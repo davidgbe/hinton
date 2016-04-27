@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413940.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413940">
+    <timex2 ID="adige20041007_id413940-T5" VAL="2002">
+      <timex2_mention ID="adige20041007_id413940-T5-1">
+        <extent>
+          <charseq START="1610" END="1616">il 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T6" VAL="2003">
+      <timex2_mention ID="adige20041007_id413940-T6-1">
+        <extent>
+          <charseq START="1620" END="1623">2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T7" VAL="2002">
+      <timex2_mention ID="adige20041007_id413940-T7-1">
+        <extent>
+          <charseq START="2058" END="2061">2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T8" VAL="2002">
+      <timex2_mention ID="adige20041007_id413940-T8-1">
+        <extent>
+          <charseq START="2384" END="2390">il 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T9" VAL="2003">
+      <timex2_mention ID="adige20041007_id413940-T9-1">
+        <extent>
+          <charseq START="2392" END="2395">2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T1" VAL="P2Y" ANCHOR_VAL="2002" ANCHOR_DIR="STARTING">
+      <timex2_mention ID="adige20041007_id413940-T1-1">
+        <extent>
+          <charseq START="138" END="143">bienno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T10" VAL="2004">
+      <timex2_mention ID="adige20041007_id413940-T10-1">
+        <extent>
+          <charseq START="2411" END="2417">il 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T2" VAL="2002">
+      <timex2_mention ID="adige20041007_id413940-T2-1">
+        <extent>
+          <charseq START="145" END="148">2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T11" VAL="2005">
+      <timex2_mention ID="adige20041007_id413940-T11-1">
+        <extent>
+          <charseq START="2419" END="2422">2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T3" VAL="2003">
+      <timex2_mention ID="adige20041007_id413940-T3-1">
+        <extent>
+          <charseq START="150" END="153">2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T12" VAL="2005">
+      <timex2_mention ID="adige20041007_id413940-T12-1">
+        <extent>
+          <charseq START="2597" END="2604">del 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413940-T4" VAL="2004-11" MOD="MID">
+      <timex2_mention ID="adige20041007_id413940-T4-1">
+        <extent>
+          <charseq START="907" END="919">metà novembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

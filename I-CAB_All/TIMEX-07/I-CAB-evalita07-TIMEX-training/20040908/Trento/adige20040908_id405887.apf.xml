@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405887.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405887">
+    <timex2 ID="adige20040908_id405887-T10" VAL="2004-08-30">
+      <timex2_mention ID="adige20040908_id405887-T10-1">
+        <extent>
+          <charseq START="3794" END="3805">Il 30 agosto</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T2" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040908_id405887-T2-1">
+        <extent>
+          <charseq START="808" END="821">lo scorso anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T11" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040908_id405887-T11-1">
+        <extent>
+          <charseq START="4514" END="4526">un nuovo anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T3" VAL="2004-01">
+      <timex2_mention ID="adige20040908_id405887-T3-1">
+        <extent>
+          <charseq START="1022" END="1038">Lo scorso gennaio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T4" VAL="P8Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405887-T4-1">
+        <extent>
+          <charseq START="1586" END="1586">8</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T5" VAL="P9Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040908_id405887-T5-1">
+        <extent>
+          <charseq START="1588" END="1593">9 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T13">
+      <timex2_mention ID="adige20040908_id405887-T13-1">
+        <extent>
+          <charseq START="1476" END="1480">tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T6" VAL="PXD" ANCHOR_VAL="XXXX-XX-XX" ANCHOR_DIR="AFTER" COMMENT="Non posso risalire a un'ancora precisa.">
+      <timex2_mention ID="adige20040908_id405887-T6-1">
+        <extent>
+          <charseq START="1814" END="1834">Nei giorni successivi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T7" VAL="2004-04">
+      <timex2_mention ID="adige20040908_id405887-T7-1">
+        <extent>
+          <charseq START="2249" END="2254">aprile</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T12" COMMENT="NO calendario gregoriano.">
+      <timex2_mention ID="adige20040908_id405887-T12-1">
+        <extent>
+          <charseq START="576" END="609">il quinto e ultimo anno scolastico</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T8" VAL="1994" MOD="APPROX">
+      <timex2_mention ID="adige20040908_id405887-T8-1">
+        <extent>
+          <charseq START="2598" END="2618">una decina di anni fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T9" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405887-T9-1">
+        <extent>
+          <charseq START="3618" END="3621">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405887-T1" VAL="2004-09-13">
+      <timex2_mention ID="adige20040908_id405887-T1-1">
+        <extent>
+          <charseq START="501" END="506">Lunedì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

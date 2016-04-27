@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413950.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413950">
+    <timex2 ID="adige20041007_id413950-T1" VAL="2003-12">
+      <timex2_mention ID="adige20041007_id413950-T1-1">
+        <extent>
+          <charseq START="129" END="145">nel dicembre 2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T2" VAL="XXXX-WXX-1" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T2-1">
+        <extent>
+          <charseq START="557" END="566">dal lunedì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T3" VAL="XXXX-WXX-3" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T3-1">
+        <extent>
+          <charseq START="568" END="579">al mercoledì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T4" VAL="XXXX-WXX-5" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T4-1">
+        <extent>
+          <charseq START="583" END="589">venerdì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T5" VAL="T08:30">
+      <timex2_mention ID="adige20041007_id413950-T5-1">
+        <extent>
+          <charseq START="591" END="594">8,30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T6" VAL="T12:00">
+      <timex2_mention ID="adige20041007_id413950-T6-1">
+        <extent>
+          <charseq START="596" END="597">12</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T7" VAL="XXXX-WXX-4" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T7-1">
+        <extent>
+          <charseq START="600" END="606">giovedì</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T8" VAL="XXXX-WXX-4T08:30">
+      <timex2_mention ID="adige20041007_id413950-T8-1">
+        <extent>
+          <charseq START="608" END="611">8,30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T9" VAL="XXXX-WXX-4T18:00">
+      <timex2_mention ID="adige20041007_id413950-T9-1">
+        <extent>
+          <charseq START="613" END="614">18</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T10" VAL="P10D" MOD="EQUAL_OR_MORE">
+      <timex2_mention ID="adige20041007_id413950-T10-1">
+        <extent>
+          <charseq START="723" END="738">almeno 10 giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T11" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T11-1">
+        <extent>
+          <charseq START="811" END="818">all'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T12" VAL="XXXX-XX" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T12-1">
+        <extent>
+          <charseq START="833" END="839">al mese</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T13" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T13-1">
+        <extent>
+          <charseq START="868" END="875">all'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T14" VAL="P3M" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T14-1">
+        <extent>
+          <charseq START="892" END="903">al trimestre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413950-T15" VAL="XXXX-XX-XX" SET="YES">
+      <timex2_mention ID="adige20041007_id413950-T15-1">
+        <extent>
+          <charseq START="961" END="969">al giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

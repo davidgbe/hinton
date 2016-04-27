@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405427.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405427">
+    <timex2 ID="adige20040907_id405427-T1" VAL="P25Y" ANCHOR_VAL="XXXX" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405427-T1-1">
+        <extent>
+          <charseq START="91" END="97">25 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405427-T2" VAL="PXY">
+      <timex2_mention ID="adige20040907_id405427-T2-1">
+        <extent>
+          <charseq START="200" END="210">lunghi anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405427-T3" VAL="2004">
+      <timex2_mention ID="adige20040907_id405427-T3-1">
+        <extent>
+          <charseq START="462" END="471">quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405427-T4" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405427-T4-1">
+        <extent>
+          <charseq START="856" END="858">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405427-T5" VAL="2004">
+      <timex2_mention ID="adige20040907_id405427-T5-1">
+        <extent>
+          <charseq START="1313" END="1322">quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

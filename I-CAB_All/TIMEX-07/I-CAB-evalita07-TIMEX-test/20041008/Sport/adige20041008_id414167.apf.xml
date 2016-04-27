@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414167.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414167">
+    <timex2 ID="adige20041008_id414167-T1" VAL="P6M">
+      <timex2_mention ID="adige20041008_id414167-T1-1">
+        <extent>
+          <charseq START="79" END="84">6 mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414167-T2" VAL="2004-10-03">
+      <timex2_mention ID="adige20041008_id414167-T2-1">
+        <extent>
+          <charseq START="208" END="241">Una domenica abbastanza tranquilla</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414167-T3" VAL="P3D" COMMENT="Errore di stampa 'giornata'.">
+      <timex2_mention ID="adige20041008_id414167-T3-1">
+        <extent>
+          <charseq START="671" END="682">tre giornata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414167-T4" VAL="2003">
+      <timex2_mention ID="adige20041008_id414167-T4-1">
+        <extent>
+          <charseq START="879" END="893">all'anno scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414167-T5" VAL="2004-10-03">
+      <timex2_mention ID="adige20041008_id414167-T5-1">
+        <extent>
+          <charseq START="998" END="1023">della giornata di domenica</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414167-T6" VAL="P6M">
+      <timex2_mention ID="adige20041008_id414167-T6-1">
+        <extent>
+          <charseq START="1119" END="1126">sei mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414167-T7" VAL="P4D">
+      <timex2_mention ID="adige20041008_id414167-T7-1">
+        <extent>
+          <charseq START="2174" END="2189">sulle 4 giornate</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414167-T8">
+      <timex2_mention ID="adige20041008_id414167-T8-1">
+        <extent>
+          <charseq START="1152" END="1161">al momento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

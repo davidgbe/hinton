@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405405.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405405">
+    <timex2 ID="adige20040907_id405405-T1" VAL="P3Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405405-T1-1">
+        <extent>
+          <charseq START="684" END="691">tre anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405405-T2" VAL="P27Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405405-T2-1">
+        <extent>
+          <charseq START="1043" END="1049">27 enne</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405405-T3" VAL="P37Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405405-T3-1">
+        <extent>
+          <charseq START="1137" END="1143">37 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405405-T4" VAL="PXM" ANCHOR_VAL="2004-09" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405405-T4-1">
+        <extent>
+          <charseq START="1198" END="1208">alcuni mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405405-T5">
+      <timex2_mention ID="adige20040907_id405405-T5-1">
+        <extent>
+          <charseq START="916" END="928">qualche tempo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

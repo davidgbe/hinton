@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405904.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405904">
+    <timex2 ID="adige20040908_id405904-T1" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405904-T1-1">
+        <extent>
+          <charseq START="291" END="294">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405904-T2" VAL="XXXX" SET="YES">
+      <timex2_mention ID="adige20040908_id405904-T2-1">
+        <extent>
+          <charseq START="632" END="639">all'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405666.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405666">
+    <timex2 ID="adige20040908_id405666-T1" VAL="1994">
+      <timex2_mention ID="adige20040908_id405666-T1-1">
+        <extent>
+          <charseq START="60" END="68">ANNO 1994</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405666-T2" VAL="1995">
+      <timex2_mention ID="adige20040908_id405666-T2-1">
+        <extent>
+          <charseq START="133" END="141">ANNO 1995</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405666-T3" VAL="1996">
+      <timex2_mention ID="adige20040908_id405666-T3-1">
+        <extent>
+          <charseq START="205" END="213">ANNO 1996</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405666-T4" VAL="1997">
+      <timex2_mention ID="adige20040908_id405666-T4-1">
+        <extent>
+          <charseq START="261" END="269">ANNO 1997</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405666-T5" VAL="1998">
+      <timex2_mention ID="adige20040908_id405666-T5-1">
+        <extent>
+          <charseq START="366" END="374">ANNO 1998</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405666-T7" VAL="2001">
+      <timex2_mention ID="adige20040908_id405666-T7-1">
+        <extent>
+          <charseq START="508" END="516">ANNO 2001</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405666-T6" VAL="2000">
+      <timex2_mention ID="adige20040908_id405666-T6-1">
+        <extent>
+          <charseq START="474" END="482">ANNO 2000</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

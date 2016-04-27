@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405670.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405670">
+    <timex2 ID="adige20040908_id405670-T6" VAL="2002-03-19">
+      <timex2_mention ID="adige20040908_id405670-T6-1">
+        <extent>
+          <charseq START="1396" END="1411">il 19 marzo 2002</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T7" VAL="197" MOD="AFTER">
+      <timex2_mention ID="adige20040908_id405670-T7-1">
+        <extent>
+          <charseq START="1524" END="1541">post anni Settanta</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T8" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405670-T8-1">
+        <extent>
+          <charseq START="2801" END="2803">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T9" VAL="2003-10">
+      <timex2_mention ID="adige20040908_id405670-T9-1">
+        <extent>
+          <charseq START="2881" END="2911">dall' ottobre dello scorso anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T1" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040908_id405670-T1-1">
+        <extent>
+          <charseq START="487" END="489">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T10" VAL="2004-09-13">
+      <timex2_mention ID="adige20040908_id405670-T10-1">
+        <extent>
+          <charseq START="2946" END="2970">dal 13 settembre prossimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T2" VAL="2003-03">
+      <timex2_mention ID="adige20040908_id405670-T2-1">
+        <extent>
+          <charseq START="721" END="747">nel marzo dello scorso anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T11" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405670-T11-1">
+        <extent>
+          <charseq START="3288" END="3291">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T3" VAL="198" MOD="END">
+      <timex2_mention ID="adige20040908_id405670-T3-1">
+        <extent>
+          <charseq START="849" END="861">fine anni '80</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T12" VAL="2004-08-02">
+      <timex2_mention ID="adige20040908_id405670-T12-1">
+        <extent>
+          <charseq START="3295" END="3313">del 2 agosto scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T4" VAL="1999">
+      <timex2_mention ID="adige20040908_id405670-T4-1">
+        <extent>
+          <charseq START="885" END="892">nel 1999</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T13" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405670-T13-1">
+        <extent>
+          <charseq START="3316" END="3319">Oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T5" VAL="1999-05-20">
+      <timex2_mention ID="adige20040908_id405670-T5-1">
+        <extent>
+          <charseq START="1366" END="1382">il 20 maggio 1999</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405670-T14" VAL="2004-09-09">
+      <timex2_mention ID="adige20040908_id405670-T14-1">
+        <extent>
+          <charseq START="3396" END="3415">il giorno successivo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

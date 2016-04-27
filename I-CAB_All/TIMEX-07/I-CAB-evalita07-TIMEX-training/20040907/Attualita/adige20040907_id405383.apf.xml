@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405383.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405383">
+    <timex2 ID="adige20040907_id405383-T2" VAL="XXXX-XX-XX">
+      <timex2_mention ID="adige20040907_id405383-T2-1">
+        <extent>
+          <charseq START="1375" END="1385">quel giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405383-T3" VAL="1941-06-22" COMMENT="questo">
+      <timex2_mention ID="adige20040907_id405383-T3-1">
+        <extent>
+          <charseq START="1438" END="1456">il nostro 22 giugno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405383-T4" VAL="1941-06-22">
+      <timex2_mention ID="adige20040907_id405383-T4-1">
+        <extent>
+          <charseq START="1459" END="1506">giorno dell'attacco nazista alla Russia del 1941</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405383-T5" VAL="PXY">
+      <timex2_mention ID="adige20040907_id405383-T5-1">
+        <extent>
+          <charseq START="2239" END="2255">tutti questi anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405383-T1" VAL="2004-09-04">
+      <timex2_mention ID="adige20040907_id405383-T1-1">
+        <extent>
+          <charseq START="568" END="573">sabato</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413724.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413724">
+    <timex2 ID="adige20041007_id413724-T1" VAL="2005-10-09">
+      <timex2_mention ID="adige20041007_id413724-T1-1">
+        <extent>
+          <charseq START="67" END="83">domenica prossima</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

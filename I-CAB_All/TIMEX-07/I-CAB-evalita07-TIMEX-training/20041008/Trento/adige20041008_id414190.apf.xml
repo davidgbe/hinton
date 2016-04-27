@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041008_id414190.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041008_id414190">
+    <timex2 ID="adige20041008_id414190-T8" VAL="2005-03">
+      <timex2_mention ID="adige20041008_id414190-T8-1">
+        <extent>
+          <charseq START="1002" END="1006">marzo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T9" VAL="PXY">
+      <timex2_mention ID="adige20041008_id414190-T9-1">
+        <extent>
+          <charseq START="1138" END="1149">qualche anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T10" VAL="TMO">
+      <timex2_mention ID="adige20041008_id414190-T10-1">
+        <extent>
+          <charseq START="1320" END="1329">la mattina</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T21" VAL="FUTURE_REF" ANCHOR_VAL="2005-10-08" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20041008_id414190-T21-1">
+        <extent>
+          <charseq START="535" END="540">allora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T20" VAL="PXY">
+      <timex2_mention ID="adige20041008_id414190-T20-1">
+        <extent>
+          <charseq START="2930" END="2933">anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T18" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414190-T18-1">
+        <extent>
+          <charseq START="2393" END="2394">ex</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T22" VAL="PAST_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20041008_id414190-T22-1">
+        <extent>
+          <charseq START="2235" END="2236">ex</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T16">
+      <timex2_mention ID="adige20041008_id414190-T16-1">
+        <extent>
+          <charseq START="804" END="818">Due stagioni fa</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T1" VAL="P8D">
+      <timex2_mention ID="adige20041008_id414190-T1-1">
+        <extent>
+          <charseq START="124" END="134">Otto giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-10-08" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20041008_id414190-T2-1">
+        <extent>
+          <charseq START="175" END="180">Finora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T3" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414190-T3-1">
+        <extent>
+          <charseq START="213" END="225">Ottavo giorno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T11" VAL="T06">
+      <timex2_mention ID="adige20041008_id414190-T11-1">
+        <extent>
+          <charseq START="1331" END="1336">alle 6</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T17" VAL="PTXH" SET="YES">
+      <timex2_mention ID="adige20041008_id414190-T17-1">
+        <extent>
+          <charseq START="957" END="980">determinate fasce orarie</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T4" VAL="2004-10-07">
+      <timex2_mention ID="adige20041008_id414190-T4-1">
+        <extent>
+          <charseq START="307" END="310">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T12" VAL="P6Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041008_id414190-T12-1">
+        <extent>
+          <charseq START="2168" END="2175">sei anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T5" VAL="PXW">
+      <timex2_mention ID="adige20041008_id414190-T5-1">
+        <extent>
+          <charseq START="507" END="523">qualche settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T13" VAL="2005">
+      <timex2_mention ID="adige20041008_id414190-T13-1">
+        <extent>
+          <charseq START="3148" END="3165">dall'anno prossimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T6" VAL="XXXX-WXX" SET="YES" NON_SPECIFIC="YES">
+      <timex2_mention ID="adige20041008_id414190-T6-1">
+        <extent>
+          <charseq START="939" END="952">alla settimana</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T14" VAL="2004">
+      <timex2_mention ID="adige20041008_id414190-T14-1">
+        <extent>
+          <charseq START="3257" END="3266">Quest'anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T7" VAL="2004-11" MOD="MID">
+      <timex2_mention ID="adige20041008_id414190-T7-1">
+        <extent>
+          <charseq START="986" END="998">metà novembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041008_id414190-T15" VAL="2005">
+      <timex2_mention ID="adige20041008_id414190-T15-1">
+        <extent>
+          <charseq START="3353" END="3360">nel 2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

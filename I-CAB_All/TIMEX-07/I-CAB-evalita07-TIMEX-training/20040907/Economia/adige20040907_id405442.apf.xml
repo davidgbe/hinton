@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405442.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405442">
+    <timex2 ID="adige20040907_id405442-T4" VAL="2003-06-30">
+      <timex2_mention ID="adige20040907_id405442-T4-1">
+        <extent>
+          <charseq START="560" END="576">al 30 giugno 2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405442-T5" VAL="2004-H1">
+      <timex2_mention ID="adige20040907_id405442-T5-1">
+        <extent>
+          <charseq START="610" END="632">del primo semestre 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405442-T1" VAL="2005-09-15">
+      <timex2_mention ID="adige20040907_id405442-T1-1">
+        <extent>
+          <charseq START="69" END="84">giovedì prossimo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405442-T2" VAL="2004-H1">
+      <timex2_mention ID="adige20040907_id405442-T2-1">
+        <extent>
+          <charseq START="367" END="377">il semestre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405442-T6" VAL="2003-H1">
+      <timex2_mention ID="adige20040907_id405442-T6-1">
+        <extent>
+          <charseq START="450" END="477">allo stesso periodo del 2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

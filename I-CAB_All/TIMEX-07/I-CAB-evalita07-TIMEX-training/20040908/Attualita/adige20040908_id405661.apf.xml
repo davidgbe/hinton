@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405661.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405661">
+    <timex2 ID="adige20040908_id405661-T5" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405661-T5-1">
+        <extent>
+          <charseq START="2087" END="2090">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405661-T1" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405661-T1-1">
+        <extent>
+          <charseq START="171" END="174">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405661-T2" VAL="2004-09-07TEV">
+      <timex2_mention ID="adige20040908_id405661-T2-1">
+        <extent>
+          <charseq START="472" END="480">ieri sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405661-T3" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405661-T3-1">
+        <extent>
+          <charseq START="588" END="591">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405661-T4" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405661-T4-1">
+        <extent>
+          <charseq START="1312" END="1315">ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

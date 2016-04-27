@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405409.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405409">
+    <timex2 ID="adige20040907_id405409-T4" VAL="2003">
+      <timex2_mention ID="adige20040907_id405409-T4-1">
+        <extent>
+          <charseq START="1141" END="1144">2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T5" VAL="1986">
+      <timex2_mention ID="adige20040907_id405409-T5-1">
+        <extent>
+          <charseq START="1422" END="1429">nel 1986</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T6" VAL="1988">
+      <timex2_mention ID="adige20040907_id405409-T6-1">
+        <extent>
+          <charseq START="1435" END="1442">nel 1988</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T13" VAL="19" MOD="END">
+      <timex2_mention ID="adige20040907_id405409-T13-1">
+        <extent>
+          <charseq START="1877" END="1897">del secondo Novecento</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T15" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405409-T15-1">
+        <extent>
+          <charseq START="2790" END="2802">questi giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T7" VAL="1989">
+      <timex2_mention ID="adige20040907_id405409-T7-1">
+        <extent>
+          <charseq START="1448" END="1455">nel 1989</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T8" VAL="1991">
+      <timex2_mention ID="adige20040907_id405409-T8-1">
+        <extent>
+          <charseq START="1470" END="1477">nel 1991</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T9" VAL="1996">
+      <timex2_mention ID="adige20040907_id405409-T9-1">
+        <extent>
+          <charseq START="1483" END="1490">nel 1996</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T1" VAL="2004-09-05">
+      <timex2_mention ID="adige20040907_id405409-T1-1">
+        <extent>
+          <charseq START="87" END="99">Sabato scorso</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T12" VAL="2003-10">
+      <timex2_mention ID="adige20040907_id405409-T12-1">
+        <extent>
+          <charseq START="1226" END="1242">lo scorso ottobre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T10" VAL="2001">
+      <timex2_mention ID="adige20040907_id405409-T10-1">
+        <extent>
+          <charseq START="1728" END="1735">nel 2001</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T2" VAL="2004">
+      <timex2_mention ID="adige20040907_id405409-T2-1">
+        <extent>
+          <charseq START="126" END="129">2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T14" VAL="2004-09-04TEV">
+      <timex2_mention ID="adige20040907_id405409-T14-1">
+        <extent>
+          <charseq START="2130" END="2141">nella serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T11" VAL="PT50M" ANCHOR_VAL="2004-09-04TXX:XX" ANCHOR_DIR="WITHIN">
+      <timex2_mention ID="adige20040907_id405409-T11-1">
+        <extent>
+          <charseq START="2259" END="2274">i suoi 50 minuti</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405409-T3" VAL="2004-09-05TEV">
+      <timex2_mention ID="adige20040907_id405409-T3-1">
+        <extent>
+          <charseq START="335" END="340">serata</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

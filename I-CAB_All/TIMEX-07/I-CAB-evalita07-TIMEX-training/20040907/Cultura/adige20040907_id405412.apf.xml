@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405412.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405412">
+    <timex2 ID="adige20040907_id405412-T5" VAL="P15Y" MOD="EQUAL_OR_LESS" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405412-T5-1">
+        <extent>
+          <charseq START="408" END="417">ai 15 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T6" VAL="T18:30">
+      <timex2_mention ID="adige20040907_id405412-T6-1">
+        <extent>
+          <charseq START="420" END="434">dalle ore 18.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T7" VAL="T19:30">
+      <timex2_mention ID="adige20040907_id405412-T7-1">
+        <extent>
+          <charseq START="436" END="445">alle 19.30</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T1" VAL="2004">
+      <timex2_mention ID="adige20040907_id405412-T1-1">
+        <extent>
+          <charseq START="118" END="121">2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T8" COMMENT="NO calendario gregoriano">
+      <timex2_mention ID="adige20040907_id405412-T8-1">
+        <extent>
+          <charseq START="100" END="116">l'anno Accademico</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T9" VAL="XXXX-XX" SET="YES">
+      <timex2_mention ID="adige20040907_id405412-T9-1">
+        <extent>
+          <charseq START="481" END="487">mensili</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T2" VAL="2005">
+      <timex2_mention ID="adige20040907_id405412-T2-1">
+        <extent>
+          <charseq START="125" END="126">05</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T3" VAL="2004-09-07">
+      <timex2_mention ID="adige20040907_id405412-T3-1">
+        <extent>
+          <charseq START="259" END="268">quest'oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405412-T4" VAL="P9Y" MOD="EQUAL_OR_MORE" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405412-T4-1">
+        <extent>
+          <charseq START="402" END="406">dai 9</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

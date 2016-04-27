@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040908_id405933.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040908_id405933">
+    <timex2 ID="adige20040908_id405933-T1" VAL="2004-09-07">
+      <timex2_mention ID="adige20040908_id405933-T1-1">
+        <extent>
+          <charseq START="80" END="83">Ieri</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T2" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405933-T2-1">
+        <extent>
+          <charseq START="482" END="485">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T3" VAL="P3Y">
+      <timex2_mention ID="adige20040908_id405933-T3-1">
+        <extent>
+          <charseq START="590" END="597">tre anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T4" VAL="2004-09-08">
+      <timex2_mention ID="adige20040908_id405933-T4-1">
+        <extent>
+          <charseq START="1142" END="1145">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T5" VAL="2004-09-08T18:00">
+      <timex2_mention ID="adige20040908_id405933-T5-1">
+        <extent>
+          <charseq START="1147" END="1153">alle 18</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T6" VAL="P3Y">
+      <timex2_mention ID="adige20040908_id405933-T6-1">
+        <extent>
+          <charseq START="1744" END="1755">nel triennio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T7" VAL="2003">
+      <timex2_mention ID="adige20040908_id405933-T7-1">
+        <extent>
+          <charseq START="1757" END="1760">2003</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T8" VAL="2005">
+      <timex2_mention ID="adige20040908_id405933-T8-1">
+        <extent>
+          <charseq START="1762" END="1765">2005</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T9" VAL="P3Y">
+      <timex2_mention ID="adige20040908_id405933-T9-1">
+        <extent>
+          <charseq START="1785" END="1796">Nel triennio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T10" VAL="2005-03">
+      <timex2_mention ID="adige20040908_id405933-T10-1">
+        <extent>
+          <charseq START="2598" END="2602">marzo</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T11" VAL="P6M">
+      <timex2_mention ID="adige20040908_id405933-T11-1">
+        <extent>
+          <charseq START="2727" END="2734">sei mesi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T12" VAL="P3Y">
+      <timex2_mention ID="adige20040908_id405933-T12-1">
+        <extent>
+          <charseq START="2743" END="2750">tre anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040908_id405933-T13" VAL="FUTURE_REF" ANCHOR_VAL="2004-09-08" ANCHOR_DIR="AFTER">
+      <timex2_mention ID="adige20040908_id405933-T13-1">
+        <extent>
+          <charseq START="1374" END="1382">il futuro</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

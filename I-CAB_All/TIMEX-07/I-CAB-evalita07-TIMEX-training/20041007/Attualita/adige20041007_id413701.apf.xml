@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20041007_id413701.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20041007_id413701">
+    <timex2 ID="adige20041007_id413701-T5" VAL="P38Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413701-T5-1">
+        <extent>
+          <charseq START="1778" END="1784">38 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T6" VAL="P1Y">
+      <timex2_mention ID="adige20041007_id413701-T6-1">
+        <extent>
+          <charseq START="1919" END="1925">un anno</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T7" VAL="P58Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413701-T7-1">
+        <extent>
+          <charseq START="1929" END="1935">58 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T8" VAL="P57Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413701-T8-1">
+        <extent>
+          <charseq START="1941" END="1942">57</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T9" VAL="P40Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413701-T9-1">
+        <extent>
+          <charseq START="1981" END="1987">40 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T1" VAL="2004-10-07">
+      <timex2_mention ID="adige20041007_id413701-T1-1">
+        <extent>
+          <charseq START="241" END="244">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T2" VAL="2004">
+      <timex2_mention ID="adige20041007_id413701-T2-1">
+        <extent>
+          <charseq START="1733" END="1740">nel 2004</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T3" VAL="P57Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413701-T3-1">
+        <extent>
+          <charseq START="1742" END="1748">57 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20041007_id413701-T4" VAL="P35Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20041007_id413701-T4-1">
+        <extent>
+          <charseq START="1759" END="1760">35</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>

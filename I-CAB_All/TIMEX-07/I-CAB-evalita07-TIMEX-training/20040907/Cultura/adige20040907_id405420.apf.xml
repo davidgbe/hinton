@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE source_file PUBLIC "SYSTEM" "apf.v5.1.1.dtd">
+
+<source_file URI="adige20040907_id405420.sgm" SOURCE="unknown" TYPE="text" VERSION="5.0" AUTHOR="romano" ENCODING="UTF-8">
+  <document DOCID="adige20040907_id405420">
+    <timex2 ID="adige20040907_id405420-T1" VAL="PXD" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="BEFORE">
+      <timex2_mention ID="adige20040907_id405420-T1-1">
+        <extent>
+          <charseq START="420" END="438">degli ultimi giorni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405420-T2" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405420-T2-1">
+        <extent>
+          <charseq START="702" END="704">ora</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405420-T6" VAL="PRESENT_REF" ANCHOR_VAL="2004-09-07" ANCHOR_DIR="AS_OF">
+      <timex2_mention ID="adige20040907_id405420-T6-1">
+        <extent>
+          <charseq START="880" END="883">oggi</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405420-T7" VAL="2005-02">
+      <timex2_mention ID="adige20040907_id405420-T7-1">
+        <extent>
+          <charseq START="1711" END="1718">febbraio</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405420-T4" VAL="2004-09-10TEV">
+      <timex2_mention ID="adige20040907_id405420-T4-1">
+        <extent>
+          <charseq START="1413" END="1424">venerdì sera</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405420-T3" VAL="P10Y" ANCHOR_VAL="2004" ANCHOR_DIR="ENDING">
+      <timex2_mention ID="adige20040907_id405420-T3-1">
+        <extent>
+          <charseq START="1142" END="1148">10 anni</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+    <timex2 ID="adige20040907_id405420-T5" VAL="2004-09-09">
+      <timex2_mention ID="adige20040907_id405420-T5-1">
+        <extent>
+          <charseq START="1873" END="1886">il 9 settembre</charseq>
+        </extent>
+      </timex2_mention>
+    </timex2>
+  </document>
+</source_file>
