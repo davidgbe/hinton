@@ -34,7 +34,7 @@ class EntropyClassifier(object):
         return self.classifier.predict(X)
 
     def predict_and_report_from_file(self, test_file_path):
-        (X, Y) = self.produce_x_and_y(test_data_path)
+        (X, Y) = self.produce_x_and_y(test_file_path)
         Y_pred = self.predict(X)
         print classification_report(Y, Y_pred, target_names=[key for key in EntropyClassifier.tag_to_num])
 
