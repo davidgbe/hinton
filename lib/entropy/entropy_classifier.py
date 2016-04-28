@@ -1,5 +1,6 @@
 from lib.entropy.parser import Parser
 from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
 from lib.hot_encoder import Encoder
 from sklearn.metrics import classification_report
 import numpy as np
@@ -14,7 +15,7 @@ class EntropyClassifier(object):
     }
 
     def __init__(self, training_file_path):
-        self.classifier = LogisticRegression()
+        self.classifier = SVC()
         self.encoder = Encoder()
         self.train(training_file_path)
 
