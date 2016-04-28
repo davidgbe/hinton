@@ -23,7 +23,6 @@ class HotOneEncoder(object):
     def encode(self, words):
         return np.array(map(lambda w: self.encoding_for_word(w), words))
 
-
 class Encoder(object):
     def __init__(self):
         self.hot_one_encoders = {}
