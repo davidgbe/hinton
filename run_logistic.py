@@ -1,5 +1,7 @@
 from lib.entropy.parser import Parser
 from sklearn.linear_model import LogisticRegression
+from lib.hot_encoder import Encoder
+import numpy as np
 
 tag_to_num = {
   'PER': 0,
@@ -13,12 +15,19 @@ test = '../../I-CAB_All/test.txt'
 parsed = Parser(training_file_path)
 sentences = filter(lambda x: x.contains_entity(), parsed.sentences)
 
-X = map(lambda x: x.get_features(), sentences)
+X = np.matrix(map(lambda x: x.get_features(), sentences))
 Y = map(lambda x: tag_to_num[x.tag], sentences)
 
 print X
 print Y
 
+e = Encoder()
+X = e.encode_matrix([4, 5, 6, 7, 9], X, train=True)
+
+print X.shape
+
 lg = LogisticRegression()
 
 lg.fit(X, Y)
+
+

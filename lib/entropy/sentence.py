@@ -73,10 +73,10 @@ class Sentence(object):
         return reduce(lambda x, y: (x + 1) if y.istitle() else x, self.entity.split(' '), 0)
 
     def entity_is_title(self):
-        return self.entity.istitle()
+        return 1 if self.entity.istitle() else 0
 
     def entity_has_first_capitalized(self):
-        return self.entity.split(' ')[0].istitle()
+        return 1 if self.entity.split(' ')[0].istitle() else 0
 
     def len_entity(self):
         return len(self.entity.split(' '))
@@ -106,18 +106,18 @@ class Sentence(object):
             return self.context[self.entity_position]
 
     def entity_contains_number(self):
-        return any(char.isdigit() for char in self.entity)
+        return 1 if any(char.isdigit() for char in self.entity) else 0
 
     def entity_pos_tag(self):
         return self.entity_pos
 
     def prev_pos_is_prep(self):
         if self.entity_position == 0:
-            return False
+            return 0
         elif self.context_poses[self.entity_position - 1] == 'E':
-            return True
+            return 1
         else:
-            return False
+            return 0
 
     def occurrences_of_per(self):
         return self.other_entity_of_type('PER')
