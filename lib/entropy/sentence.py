@@ -5,17 +5,21 @@ class Sentence(object):
         'entity_is_title',
         'entity_has_first_capitalized',
         'len_entity',
-        'prev_pos',
-        'next_pos',
-        'prev_word',
-        'next_word',
         'entity_contains_number',
         'entity_pos_tag',
-        'prev_pos_is_prep',
         'occurrences_of_per',
         'occurrences_of_gpe',
         'occurrences_of_org',
-        'occurrences_of_loc'
+        'occurrences_of_loc',
+        'prev_pos',
+        'prev_word',
+        'prev_word_suff_2',
+        'prev_word_suff_3',
+        'prev_pos_is_prep',
+        'next_pos',
+        'next_word',
+        'next_word_suff_2',
+        'next_word_suff_3',
     ]
 
     def __init__(self, entity, entity_pos, context, context_poses, other_entities, position=-1, tag=None):
@@ -81,43 +85,11 @@ class Sentence(object):
     def len_entity(self):
         return len(self.entity.split(' '))
 
-    def prev_pos(self):
-        if self.entity_position == 0:
-            return 'BOS'
-        else:
-            return self.context_poses[self.entity_position - 1]
-
-    def next_pos(self):
-        if self.entity_position == len(self.context_poses):
-            return 'EOS'
-        else:
-            return self.context_poses[self.entity_position]
-
-    def prev_word(self):
-        if self.entity_position == 0:
-            return 'BOS'
-        else:
-            return self.context[self.entity_position - 1]
-
-    def next_word(self):
-        if self.entity_position == len(self.context):
-            return 'EOS'
-        else:
-            return self.context[self.entity_position]
-
     def entity_contains_number(self):
         return 1 if any(char.isdigit() for char in self.entity) else 0
 
     def entity_pos_tag(self):
         return self.entity_pos
-
-    def prev_pos_is_prep(self):
-        if self.entity_position == 0:
-            return 0
-        elif self.context_poses[self.entity_position - 1] == 'E':
-            return 1
-        else:
-            return 0
 
     def occurrences_of_per(self):
         return self.other_entity_of_type('PER')
@@ -130,6 +102,64 @@ class Sentence(object):
 
     def occurrences_of_loc(self):
         return self.other_entity_of_type('LOC')
+
+    #prev word features
+    def prev_pos(self):
+        if self.entity_position == 0:
+            return 'BOS'
+        else:
+            return self.context_poses[self.entity_position - 1]
+
+    def prev_word(self):
+        if self.entity_position == 0:
+            return 'BOS'
+        else:
+            return self.context[self.entity_position - 1]
+
+    def prev_word_suff_2(self):
+        if self.entity_position == 0:
+            return 'BOS'
+        else:
+            return self.context[self.entity_position - 1][-2:]
+
+    def prev_word_suff_3(self):
+        if self.entity_position == 0:
+            return 'BOS'
+        else:
+            return self.context[self.entity_position - 1][-3:]
+
+    def prev_pos_is_prep(self):
+        if self.entity_position == 0:
+            return 0
+        elif self.context_poses[self.entity_position - 1] == 'E':
+            return 1
+        else:
+            return 0
+
+    #next word features
+    def next_pos(self):
+        if self.entity_position == len(self.context_poses):
+            return 'EOS'
+        else:
+            return self.context_poses[self.entity_position]
+
+    def next_word(self):
+        if self.entity_position == len(self.context):
+            return 'EOS'
+        else:
+            return self.context[self.entity_position]
+
+    def next_word_suff_2(self):
+        if self.entity_position == 0:
+            return 'BOS'
+        else:
+            return self.context[self.entity_position - 1][-2:]
+
+    def next_word_suff_3(self):
+        if self.entity_position == 0:
+            return 'BOS'
+        else:
+            return self.context[self.entity_position - 1][-3:]
 
     #helpers
     def other_entity_of_type(self, ent_type):
