@@ -12,9 +12,8 @@ else:
     tagger = sys.argv[1]
 
 if tagger == 'word2vec':
-    training_model = Word2VecKNN(training_file_path).train()
-    X, Y = Word2VecKNN(testing_file_path).produce_word2vec_representation()
-    predictions = training_model.predict(X)
+    training_model = Word2VecKNN().train(training_file_path)
+    predictions, Y = training_model.predict(testing_file_path)
     reporter = PerformanceReporter(predictions, Y)
     reporter.give_report()
 elif tagger == 'crf':
