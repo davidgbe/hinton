@@ -1,11 +1,11 @@
 from lib.entropy.parser import Parser
+from lib.entropy.sentence import Sentence
 from sklearn.linear_model import LogisticRegression
 from lib.hot_encoder import Encoder
 from sklearn.metrics import classification_report
 import numpy as np
 
 class EntropyClassifier(object):
-    to_hot_encode = [5, 10, 11, 12, 13, 15, 16, 17, 18]
     tag_to_num = {
       'LOC': 0,
       'GPE': 1,
@@ -22,7 +22,13 @@ class EntropyClassifier(object):
         parsed = Parser(path)
         sentences = filter(lambda x: x.contains_entity(), parsed.sentences)
         X = np.matrix(map(lambda x: x.get_features(), sentences))
-        X = self.encoder.encode_matrix(EntropyClassifier.to_hot_encode, X, train=train).astype('float64')
+        to_encode = []
+        count = 0
+        for key in Sentence.features:
+            if Sentence.features[key] == 1:
+                to_encode.append(count)
+            count += 1
+        X = self.encoder.encode_matrix(to_encode, X, train=train).astype('float64')
         Y = map(lambda x: EntropyClassifier.tag_to_num[x.tag], sentences)
         return (X, Y)
 

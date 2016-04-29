@@ -1,26 +1,27 @@
 class Sentence(object):
     to_print = ['entity', 'entity_pos', 'context', 'context_poses', 'entity_position', 'other_entities', 'tag']
-    features = [
-        'num_capitalized_words_in_entity',    
-        'entity_is_title',
-        'entity_has_first_capitalized',
-        'len_entity',
-        'entity_contains_number',
-        'entity_pos_tag',
-        'occurrences_of_per',
-        'occurrences_of_gpe',
-        'occurrences_of_org',
-        'occurrences_of_loc',
-        'prev_pos',
-        'prev_word',
-        'prev_word_suff_2',
-        'prev_word_suff_3',
-        'prev_pos_is_prep',
-        'next_pos',
-        'next_word',
-        'next_word_suff_2',
-        'next_word_suff_3',
-    ]
+    features = {
+        'num_capitalized_words_in_entity': 0,    
+        'entity_is_title': 0,
+        'entity_has_first_capitalized': 0,
+        'len_entity': 0,
+        'entity_contains_number': 0,
+        'entity_pos_tag': 1,
+        'entity_is_upper': 0,
+        'occurrences_of_per': 0,
+        'occurrences_of_gpe': 0,
+        'occurrences_of_org': 0,
+        'occurrences_of_loc': 0,
+        'prev_pos': 1,
+        'prev_word': 1,
+        'prev_word_suff_2': 1,
+        'prev_word_suff_3': 1,
+        'prev_pos_is_prep': 0,
+        'next_pos': 1,
+        'next_word': 1,
+        'next_word_suff_2': 1,
+        'next_word_suff_3': 1,
+    }
 
     def __init__(self, entity, entity_pos, context, context_poses, other_entities, position=-1, tag=None):
         self.entity = entity
@@ -90,6 +91,9 @@ class Sentence(object):
 
     def entity_pos_tag(self):
         return self.entity_pos
+
+    def entity_is_upper(self):
+        return 1 if self.entity.isupper() else 0
 
     def occurrences_of_per(self):
         return self.other_entity_of_type('PER')
