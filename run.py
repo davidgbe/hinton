@@ -12,7 +12,7 @@ else:
     tagger = sys.argv[1]
 
 if tagger == 'word2vec':
-    training_model = Word2VecKNN().train(training_file_path)
+    training_model = Word2VecKNN(hidden_size=100, num_neighbors=10).train(training_file_path)
     predictions, Y = training_model.predict(testing_file_path)
     reporter = PerformanceReporter(predictions, Y)
     reporter.give_report()
