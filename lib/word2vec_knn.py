@@ -25,8 +25,8 @@ class Word2VecKNN(object):
             
         return X, Y, entity_to_tag
 
-    def produce_word2vec_representation(self, X):
-        return map(lambda x: self.word2vec[x], X)
+    def produce_word2vec_representation(self, Y):
+        return map(lambda y: self.word2vec[y], Y)
 
     def weight_function(self, distances):
         return map(lambda x: 1.0/(pow(x, self.power)), distances)
@@ -35,9 +35,8 @@ class Word2VecKNN(object):
         X, Y, entity_to_tag = self.produce_raw_x_and_y(file_path)
         self.word2vec = gensim.models.Word2Vec(X, size=self.hidden_size, min_count=1, workers=4)
         self.knn_classifier = KNeighborsClassifier(n_neighbors=self.num_neighbors, weights=self.weight_function)
-        X = self.produce_word2vec_representation(X)
+        X = self.produce_word2vec_representation(Y)
         Y = map(lambda y: Word2VecKNN.types_to_ints[entity_to_tag[y]], Y)
-        print X
         print Y
         self.knn_classifier.fit(X, Y)
         return self

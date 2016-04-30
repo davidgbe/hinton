@@ -42,7 +42,7 @@ class Sentence(object):
         return map(lambda f: getattr(self,f)(), Sentence.features)
 
     def full_sentence(self):
-        return self.context[:self.entity_position] + self.entity.split() + self.context[self.entity_position:]
+        return self.context[:self.entity_position] + [self.entity] + self.context[self.entity_position:]
 
     @staticmethod
     def process_sentence_data(sentence_data):
