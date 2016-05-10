@@ -29,8 +29,9 @@ def parse_test(testing_file):
 
 if __name__ == "__main__":
 
-	training_file = 'I-CAB-evalita09-NER-training.iob2.txt'
-	testing_file = 'I-CAB-evalita09-NER-test.iob2.txt'
+	prefix = 'I-CAB_All/NER-09/'
+	training_file = prefix + 'I-CAB-evalita09-NER-training.iob2'
+	testing_file = prefix + 'I-CAB-evalita09-NER-test.iob2'
 
 	clf = HMM(training_file)
 	clf.train()
