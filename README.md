@@ -17,3 +17,13 @@ or
 ````
 python ./run.py crf
 ```
+
+We have also implemented logistic and hmm classifers. They can be run with
+
+```
+python ./run_logistic.py
+```
+and
+```
+python ./run_hmm.py
+```
